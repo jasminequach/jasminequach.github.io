@@ -21,19 +21,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023,
       "endDate": "Present",
       "courses": [
       ]
@@ -41,27 +41,29 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Navy Exchange Service Command",
+      "position": "Stock Clerk",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "Coordinater of product organization and distribution",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintained stock levels to ensure optimal inventory availability",
+        "Provided customer service by promptly addressing inquiries and concerns",
+        "Conducted thorough inventory checks to assess store assets"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Pearl City High School",
+      "position": "English Literature Teacher Assistant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2022-08",
+      "endDate": "2023-05",
+      "summary": "Monitor of student progress to support individualized learning",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted in the preparation of engaging and effective lesson plans",
+        "Evaluated assignments with attention to accuracy and feedback",
+        "Performed administrative tasks and errands"
       ]
     }
   ],
