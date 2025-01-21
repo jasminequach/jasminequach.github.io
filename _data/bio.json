@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "jasminequach", "url": "https://jasminequach.github.io" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "www.linkedin.com/in/jasminequach" }
+      { "network": "github", "username": "jasminequach", "url": "https://jasminequach.github.io/" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/jasminequach/" }
      ]
   },
   "interests": [
