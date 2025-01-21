@@ -25,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", ]
     }
   ],
   "education": [
@@ -43,7 +43,7 @@
     {
       "company": "Navy Exchange Service Command",
       "position": "Stock Clerk",
-      "website": "",
+      "website": "https://www.mynavyexchange.com/nex/work-for-us",
       "startDate": "2024-05",
       "endDate": "2024-08",
       "summary": "Coordinater of product organization and distribution",
@@ -56,7 +56,7 @@
     {
       "company": "Pearl City High School",
       "position": "English Literature Teacher Assistant",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "https://www.pchs.k12.hi.us/",
       "startDate": "2022-08",
       "endDate": "2023-05",
       "summary": "Monitor of student progress to support individualized learning",
@@ -102,10 +102,10 @@
       "summary": "Recognized for demonstrating high academic performance and the intent to make a positive impact on the UH Mānoa community."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Seal of Biliteracy",
+      "date": "2023",
+      "awarder": "Pearl City High School",
+      "summary": "Awarded for studying and attaining a high level of proficiency in Japanese."
     }
   ],
   "references": [
