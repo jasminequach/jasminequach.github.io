@@ -7,6 +7,7 @@ date: 2025-01-21
 published: true
 labels:
   - Software Engineering
+  - Learning
 ---
 
 ## Education is for Everyone
