@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="..[/img/difficulty/degree_difficulty.jpg](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/61610934_10157995167399879_6771335582200102912_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9eae26&_nc_ohc=cIW6inmx288Q7kNvgED3ccx&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ASuX25_DU9k1SBtukW_eke0&oh=00_AYAd1nZRxKXpKt7Qn_5MTuvcJSO7pUsZ4AmUPhM_hsCzrQ&oe=67B80F4F)">
+<img width="200px" class="rounded float-start pe-4" src="..https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWurRYyqGroSzX0n7dS99FSA3vVa9oinLHPg&s">
 
 ## Education is for Everyone
 
