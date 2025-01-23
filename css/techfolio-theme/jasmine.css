@@ -21,7 +21,7 @@
   --complement-orange: #df4636;
   --complement-cream: #f1e7d5;
   --bs-link-color: var(--tf-green1);
-  --tf-pill-bg: var(--tf-green3);
+  --tf-pill-bg: var(--complement-yellow);
   --tf-icon-fill: var(--tf-green1);
   --tf-icon-hover: var(--tf-green2);
   --tf-page-bg-color: var(--background-white);
