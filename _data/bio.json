@@ -68,15 +68,16 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Summer Fun",
+      "website": "https://www.honolulu.gov/parks/program/summer-fun-program.html",
+      "position": "Junior Leader",
+      "startDate": "2020",
+      "endDate": "",
+      "summary": "Assistant youth leader for day campers",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assisted leaders in facilitating physical, educational, and craft activities",
+        "Motivated children to participate while maintaining a safe environment",
+        "Set up and organized materials before and after activities"
       ]
     },
     {
