@@ -50,6 +50,7 @@
   text-align: justify;   /* Justifies the text */
   line-height: 1.6;       /* Adjusts line height for readability */
   margin-bottom: 20px;    /* Adds space below the paragraph */
+  font-style: italic;
 }
 
 body {
