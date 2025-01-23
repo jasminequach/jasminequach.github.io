@@ -28,6 +28,8 @@
 .name-header {
   margin-top: 20px;  /* Adjust top margin */
   margin-bottom: 10px; /* Adjust bottom margin */
+  font-family: var(--tf-header-font); /* header font */
+  color: var(--header-dark);
 }
 
 .summary-text, .interests-text {
@@ -59,9 +61,9 @@ body {
   font-family: var(--tf-body-font); /* header font */
 }
 
-h1,h2,h3,h4,h5 {
+h2,h3,h4,h5 {
   font-family: var(--tf-header-font); /* header font */
-  color: var(--header-dark);
+  color: var(--complement-yellow);
 }
 
 .navbar {
