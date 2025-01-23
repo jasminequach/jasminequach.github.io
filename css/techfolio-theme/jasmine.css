@@ -65,12 +65,12 @@ body {
   font-family: var(--tf-body-font); /* header font */
 }
 
-h1,h3,h5 {
+h1,h3,h4 {
   font-family: var(--tf-header-font); /* header font */
   color: var(--complement-orange);
 }
 
-h4 {
+h5 {
   font-family: var(--tf-header-font); /* header font */
   color: var(--complement-violet);
 }
