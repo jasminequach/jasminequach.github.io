@@ -28,11 +28,23 @@
   margin-bottom: 10px; /* Adjust bottom margin */
 }
 
+.summary-text, .interests-text {
+  text-align: justify;   /* Justifies the text */
+  line-height: 1.6;       /* Adjusts line height for readability */
+  margin-bottom: 20px;    /* Adds space below the paragraph */
+  width: 100%;            /* Ensures the paragraph takes up the full container width */
+  max-width: 800px;       /* Optional: limits width to prevent excessive stretching */
+  margin-left: 20px;      /* Centers the paragraph block if width is limited */
+  margin-right: 20px;     /* Centers the paragraph block if width is limited */
+}
+
+/*
 .summary-text {
   text-align: justify;   /* Centers the text horizontally */
   line-height: 1.6;     /* Adjusts the spacing between lines of text */
   margin-bottom: 20px;  /* Adds space below the paragraph */
 }
+*/
 
 .interests-text {
   text-align: justify;   /* Justifies the text */
