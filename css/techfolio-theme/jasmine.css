@@ -22,10 +22,10 @@
 }
 
 body {
-  font-family: var(--tf-body-font); /* regular text font */
 }
 
 h1,h2,h3,h4,h5 {
+  font-family: var(--tf-header-font); /* header font */
   color: var(--header-dark);
 }
 
