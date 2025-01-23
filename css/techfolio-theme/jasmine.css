@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5 {
 }
 
 .navbar {
-  background-color: var(--header-dark);
+  background-color: var(--background-white);
 }
 
 /* Format social media icons */
