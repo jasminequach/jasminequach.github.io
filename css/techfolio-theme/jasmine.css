@@ -7,7 +7,7 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-header-font: "Archivo Black", sans-serif;        /* font for headers */
-  --tf-body-font: "IM Fell Great Primer", serif;        /* font for body text */
+  --tf-body-font: "Hind Siliguri", serif;                /* font for body text */
   --tf-green1: #136c14;
   --tf-green2: #4FA64F;
   --tf-green3: #85C285;
