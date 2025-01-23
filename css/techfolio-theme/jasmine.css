@@ -2,14 +2,16 @@
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap");
+@import url("https://fonts.google.com/specimen/IM+Fell+Great+Primer?query=serif");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  --tf-header-font: "DM Serif Text", serif;             /* font for headers */
+  --tf-body-font: "IM Fell Great Primer", serif;        /* font for body text */
   --tf-green1: #136c14;
   --tf-green2: #4FA64F;
   --tf-green3: #85C285;
   --tf-green4: #e0f2df;
-  --bs-font-sans-serif: "DM Serif Text", serif;
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-green3);
   --tf-icon-fill: var(--tf-green1);
@@ -19,7 +21,12 @@
   --tf-projects-bg-color: var(--tf-green4);
 }
 
+body {
+  font-family: var(--tf-body-font); /* regular text font */
+}
+
 h1,h2,h3,h4,h5 {
+  font-family: var(--tf-header-font); /* header font */
   color: var(--tf-green1);
 }
 
