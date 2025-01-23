@@ -23,7 +23,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Unix" ]
     }
   ],
   "education": [
@@ -79,16 +79,16 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "UH Mānoa Registered Independent Organizations",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
+      "position": "Active Member",
+      "startDate": "Since 2023",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Association for Computing Machinery (ACM)",
+        "Mānoa Scholars Club",
+        "Timpuyog"
       ]
     }
   ],
