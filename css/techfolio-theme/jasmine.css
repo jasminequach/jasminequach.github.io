@@ -23,6 +23,11 @@
   --tf-projects-bg-color: var(--tf-green4);
 }
 
+.name-header {
+  margin-top: 20px;  /* Adjust top margin */
+  margin-bottom: 10px; /* Adjust bottom margin */
+}
+
 .summary-text {
   text-align: justify;   /* Centers the text horizontally */
   line-height: 1.6;     /* Adjusts the spacing between lines of text */
