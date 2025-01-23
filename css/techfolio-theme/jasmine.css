@@ -2,10 +2,12 @@
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-header-font: "Archivo Black", sans-serif;        /* font for headers */
+  --tf-body-font: "Hind Siliguri", serif;               /* font for headers */
   --tf-green1: #136c14;
   --tf-green2: #4FA64F;
   --tf-green3: #85C285;
@@ -22,6 +24,7 @@
 }
 
 body {
+  font-family: var(--tf-body-font); /* header font */
 }
 
 h1,h2,h3,h4,h5 {
