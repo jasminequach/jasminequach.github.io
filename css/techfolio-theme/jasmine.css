@@ -23,6 +23,12 @@
   --tf-projects-bg-color: var(--tf-green4);
 }
 
+.summary-text {
+  text-align: center;   /* Centers the text horizontally */
+  line-height: 1.6;     /* Adjusts the spacing between lines of text */
+  margin-bottom: 20px;  /* Adds space below the paragraph */
+}
+
 body {
   font-family: var(--tf-body-font); /* header font */
 }
