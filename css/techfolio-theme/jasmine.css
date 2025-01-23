@@ -13,6 +13,7 @@
   --tf-green3: #85C285;
   --tf-green4: #e0f2df;
   --background-white: #f2f2f2;
+  --header-dark: #292929;
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-green3);
   --tf-icon-fill: var(--tf-green1);
@@ -42,7 +43,7 @@ body {
 
 h1,h2,h3,h4,h5 {
   font-family: var(--tf-header-font); /* header font */
-  color: var(--tf-green1);
+  color: var(--header-dark);
 }
 
 /* Format social media icons */
