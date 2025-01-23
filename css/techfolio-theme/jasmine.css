@@ -1,4 +1,4 @@
-/* Lime Theme: modifies the default theme to inject a wee bit o' green in various places. */
+/* Jasmine Theme: modifies the default theme to inject a wee bit o' green in various places. */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap");
@@ -33,6 +33,15 @@
   border-radius: 50%;
   object-fit: cover;
   z-index: 10; /* make sure it appears above other content */
+}
+
+#name-header {
+  position: relative; /* Allows manual adjustment using top and left */
+  top: 20px; /* Push the name 20px down */
+  text-align: center; /* Keeps the text centered */
+  font-size: 2.5rem; /* Adjusts the font size */
+  color: var(--tf-green1); /* Optional: Add a custom color */
+  margin-bottom: 10px; /* Adds space between the name and other elements */
 }
 
 body {
