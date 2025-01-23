@@ -1,7 +1,7 @@
 /* Jasmine Theme: modifies the default theme to inject a wee bit o' green in various places. */
 
 /* Use Open Sans as the default font. */
-@import url("https://fonts.google.com/specimen/Archivo+Black");
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
 @import url("https://fonts.google.com/specimen/IM+Fell+Great+Primer?query=serif");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
