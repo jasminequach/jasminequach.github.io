@@ -38,10 +38,11 @@
 #name-header {
   position: relative; /* Allows manual adjustment using top and left */
   top: 25px; /* Push the name 20px down */
-  text-align: center; /* Keeps the text centered */
+  text-align: center;
   font-size: 2.5rem; /* Adjusts the font size */
   color: var(--tf-green1); /* Optional: Add a custom color */
   margin-bottom: 10px; /* Adds space between the name and other elements */
+  z-index: 15; /* Make sure it's above other content */
 }
 
 body {
