@@ -24,7 +24,7 @@
 /* positioning the profile picture at the top-center */
 #photo-icon {
   position: absolute;
-  top: 20px; /* distance from the top */
+  top: 40px; /* distance from the top */
   left: 50%; /* horizontal center */
   transform: translateX(-50%); /* adjust for perfect centering */
   width: 200px; /* adjust size */
