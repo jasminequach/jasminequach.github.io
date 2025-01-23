@@ -19,17 +19,17 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "LANGUAGES & FRAMEWORKS",
       "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Unix" ]
+      "name": "TOOLSETS & OS",
+      "keywords": [ "MacOS", "Unix", "Eclipse" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
+      "institution": "UNIVERSITY OF HAWAII AT MĀNOA, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
       "startDate": "2023",
