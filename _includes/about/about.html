@@ -3,11 +3,13 @@
     <div class="row">
       <div class="row justify-content-center">
         <div class="col-12 text-center">
+          /* --- my name --- */
+          <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
+          /* --- my photo icon --- */
           <img id="photo-icon" width="200px" src="{{ site.data.bio.basics.picture }}" class="d-block mx-auto rounded-circle">
         </div>
       </div>
       <div class="col-lg-8">
-        <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
         <p class="lead text-center">{{ site.data.bio.basics.label }}</p>
         <p class="lead">{{ site.data.bio.basics.summary }}</p>
         <hr class="my-4">
