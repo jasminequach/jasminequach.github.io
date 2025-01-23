@@ -91,7 +91,7 @@ h5 {
 }
 
 .tf-social:hover {
-  fill: var(--tf-icon-hover);
+  fill: var(--complement-pink);
 }
 
 a {
@@ -110,6 +110,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--background-white);
   border-top: none;
 }
