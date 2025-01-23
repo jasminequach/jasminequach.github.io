@@ -16,6 +16,7 @@
   --header-dark: #292929;
   --complement-yellow: #eec320;
   --complement-blue: #00274c;
+  --complement-purple: #010100
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-green3);
   --tf-icon-fill: var(--tf-green1);
@@ -61,9 +62,14 @@ body {
   font-family: var(--tf-body-font); /* header font */
 }
 
-h1,h3,h4,h5 {
+h1,h4,h5 {
   font-family: var(--tf-header-font); /* header font */
   color: var(--complement-yellow);
+}
+
+h3 {
+  font-family: var(--tf-header-font); /* header font */
+  color: var(--complement-purple);
 }
 
 .navbar {
