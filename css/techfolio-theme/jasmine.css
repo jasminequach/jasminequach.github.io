@@ -1,12 +1,12 @@
 /* Jasmine Theme: modifies the default theme to inject a wee bit o' green in various places. */
 
 /* Use Open Sans as the default font. */
-@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap");
+@import url("https://fonts.google.com/specimen/Archivo+Black");
 @import url("https://fonts.google.com/specimen/IM+Fell+Great+Primer?query=serif");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-header-font: "DM Serif Text", serif;             /* font for headers */
+  --tf-header-font: "Archivo Black", sans-serif;        /* font for headers */
   --tf-body-font: "IM Fell Great Primer", serif;        /* font for body text */
   --tf-green1: #136c14;
   --tf-green2: #4FA64F;
@@ -42,7 +42,6 @@
   font-size: 2.5rem; /* Adjusts the font size */
   color: var(--tf-green1); /* Optional: Add a custom color */
   margin-bottom: 10px; /* Adds space between the name and other elements */
-  z-index: 15; /* Make sure it's above other content */
 }
 
 body {
