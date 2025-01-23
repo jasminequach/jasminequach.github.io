@@ -37,7 +37,7 @@
 
 #name-header {
   position: relative; /* Allows manual adjustment using top and left */
-  top: 5px; /* Push the name 20px down */
+  top: 25px; /* Push the name 20px down */
   text-align: center; /* Keeps the text centered */
   font-size: 2.5rem; /* Adjusts the font size */
   color: var(--tf-green1); /* Optional: Add a custom color */
