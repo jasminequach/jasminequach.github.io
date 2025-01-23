@@ -14,7 +14,7 @@
   --tf-green4: #e0f2df;
   --background-white: #f2f2f2;
   --header-dark: #292929;
-  --complement-yellow: #eec320
+  --complement-yellow: #eec320;
   --complement-blue: #253442;
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-green3);
@@ -22,7 +22,7 @@
   --tf-icon-hover: var(--tf-green2);
   --tf-page-bg-color: var(--background-white);
   --tf-footer-bg-color: var(--complement-blue);
-  --tf-projects-bg-color: var(--complement-blue) !important;
+  --tf-projects-bg-color: var(--complement-blue);
 }
 
 .name-header {
