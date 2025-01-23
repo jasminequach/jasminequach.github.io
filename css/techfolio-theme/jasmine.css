@@ -24,7 +24,7 @@
   --tf-icon-hover: var(--tf-green2);
   --tf-page-bg-color: var(--background-white);
   --tf-footer-bg-color: var(--complement-blue);
-  --tf-projects-bg-color: var(--just-black);
+  --tf-projects-bg-color: var(--complement-violet);
 }
 
 .name-header {
