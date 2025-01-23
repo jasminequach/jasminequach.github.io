@@ -1,7 +1,7 @@
 /* Lime Theme: modifies the default theme to inject a wee bit o' green in various places. */
 
 /* Use Open Sans as the default font. */
-@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
@@ -9,7 +9,7 @@
   --tf-green2: #4FA64F;
   --tf-green3: #85C285;
   --tf-green4: #e0f2df;
-  --bs-font-sans-serif: "PT Serif", serif;
+  --bs-font-sans-serif: "DM Serif Text", serif;
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-green3);
   --tf-icon-fill: var(--tf-green1);
