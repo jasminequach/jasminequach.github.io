@@ -34,8 +34,8 @@
   margin-bottom: 20px;    /* Adds space below the paragraph */
   width: 100%;            /* Ensures the paragraph takes up the full container width */
   max-width: 800px;       /* Optional: limits width to prevent excessive stretching */
-  margin-left: 20px;      /* Centers the paragraph block if width is limited */
-  margin-right: 20px;     /* Centers the paragraph block if width is limited */
+  margin-left: auto;      /* Centers the paragraph block if width is limited */
+  margin-right: auto;     /* Centers the paragraph block if width is limited */
 }
 
 /*
