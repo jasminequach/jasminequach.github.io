@@ -42,8 +42,8 @@
       "company": "Navy Exchange Service Command",
       "position": "Stock Clerk",
       "website": "https://www.mynavyexchange.com/nex/work-for-us",
-      "startDate": "May",
-      "endDate": "Aug 2024",
+      "startDate": "2024",
+      "endDate": "",
       "summary": "Coordinater of product organization and distribution",
       "highlights": [
         "Maintained stock levels to ensure optimal inventory availability",
@@ -95,7 +95,7 @@
   "awards": [
     {
       "title": "Provost Achievement Scholarship",
-      "date": "2023-Present",
+      "date": "2023",
       "awarder": "University of Hawaii at Mānoa",
       "summary": "Recognized for demonstrating high academic performance and the intent to make a positive impact on the UH Mānoa community."
     },
