@@ -37,7 +37,7 @@
   color: var(--header-dark);
 }
 
-.summary-text, .interests-text {
+.summary-text {
   text-align: justify;   /* Justifies the text */
   line-height: 1.6;       /* Adjusts line height for readability */
   margin-bottom: 20px;    /* Adds space below the paragraph */
