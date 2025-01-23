@@ -24,9 +24,15 @@
 }
 
 .summary-text {
-  text-align: center;   /* Centers the text horizontally */
+  text-align: justify;   /* Centers the text horizontally */
   line-height: 1.6;     /* Adjusts the spacing between lines of text */
   margin-bottom: 20px;  /* Adds space below the paragraph */
+}
+
+.interests-text {
+  text-align: justify;   /* Justifies the text */
+  line-height: 1.6;       /* Adjusts line height for readability */
+  margin-bottom: 20px;    /* Adds space below the paragraph */
 }
 
 body {
