@@ -97,6 +97,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: var(--complement-pink);  /* Example: links will turn orange on hover */
+}
+
 @media (max-width: 500px) {
   .navbar-brand {
     display: none;
