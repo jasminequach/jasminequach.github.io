@@ -26,7 +26,7 @@ Like, what? That goes against everything I’ve ever known! Oh well. We adapt an
 
 ## On the very bright side
 
-<img class="rounded" src="https://i.pinimg.com/736x/29/e7/c3/29e7c3b4f837cfb4439f33e2b96dc3f0.jpg" style="width: 200px; float: right; margin-left: 20px; margin-bottom: 20px; margin-top: 10px; border-radius: 15px;">
+<img class="rounded" src="https://i.pinimg.com/736x/29/e7/c3/29e7c3b4f837cfb4439f33e2b96dc3f0.jpg" style="width: 200px; float: right; margin-left: 10px; margin-bottom: 10px; margin-top: 10px; border-radius: 15px;">
 
 It was _doing_ that helped me see the light.
 
