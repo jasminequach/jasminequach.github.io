@@ -12,8 +12,8 @@ labels:
 
 <img width="300px" class="rounded img-fluid" src="https://media.tenor.com/sF-65FzDeFIAAAAM/cat-pondering-cat.gif">
 
-That's right. I'm a newbie to TypeScript. It was a slow start, if I'm being honest; as educational as they were, the <a href="https://example.com">freeCodeCamp 
-tutorial on JavaScript</a> was admittedly a bit boring, and the <a href="https://example.com">W3 Schools TypeScript tutorial</a> was even boring-_er_. Still, I have come to anticipate enjoying it nonetheless.
+That's right. I'm a newbie to TypeScript. It was a slow start, if I'm being honest; as educational as they were, the <a href="[https://example.com](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)">freeCodeCamp 
+tutorial on JavaScript</a> was admittedly a bit boring, although I liked how involved it was, and the <a href="[https://example.com](https://www.w3schools.com/typescript/index.php)">W3 Schools TypeScript tutorial</a> was even _more_ boring! Still, I have somehow come to anticipate enjoying TypeScript nonetheless.
 
 ## Not quite love at first sight...
 
