@@ -15,7 +15,7 @@ labels:
 I mean, sure, I found certain things a bit strange, like the syntax of a function definition line—specifically the syntax of the parameters. I’m used to the way Java and C++ does it: data type then argument name. But TypeScript totally flips the script!
 
 <div class="text-center py-4">
-  <img width="500px" class="rounded img-fluid" src="jasminequach.github.io/essays/images/function.png" alt="A silly function definition.">
+  <img width="500px" class="rounded img-fluid" src="images/function.png" alt="A silly function definition.">
 </div>
 
 Like, what? That goes against everything I’ve ever known! Oh well. We adapt and we learn (and I’m mostly joking anyway).
