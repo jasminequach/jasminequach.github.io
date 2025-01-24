@@ -14,6 +14,8 @@ labels:
 
 That's right. I'm a newbie to TypeScript. It was a slow start, if I'm being honest; as educational as they were, the <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">freeCodeCamp tutorial on JavaScript</a> was admittedly a bit boring, although I liked how involved it was, and the <a href="https://www.w3schools.com/typescript/index.php">W3 Schools TypeScript tutorial</a> was even _more_ boring! Still, I have somehow come to anticipate enjoying TypeScript nonetheless.
 
+<br>
+
 ## Not quite love at first sight...
 
 I mean, sure, I found certain things a bit strange, like the syntax of a function definition line—specifically the syntax of the parameters. I’m used to the way Java and C++ does it: data type _then_ argument name. But TypeScript totally flips the script!
@@ -22,7 +24,9 @@ I mean, sure, I found certain things a bit strange, like the syntax of a functio
   <img width="1000px" class="rounded img-fluid" src="images/function2.png" alt="A silly function definition.">
 </div>
 
-Like, what? That goes against everything I’ve ever known! Oh well. We adapt and we learn (and I’m mostly joking anyway).
+Like, what? That goes against everything I’ve ever known! Oh well. We adapt and we learn (and I’m mostly joking, anyway).
+
+<br>
 
 ## On the very bright side
 
