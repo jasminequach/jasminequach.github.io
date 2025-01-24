@@ -10,7 +10,7 @@ labels:
   - First Impressions
 ---
 
-<img class="rounded" src="[https://i.pinimg.com/736x/29/e7/c3/29e7c3b4f837cfb4439f33e2b96dc3f0.jpg](https://media.tenor.com/sF-65FzDeFIAAAAM/cat-pondering-cat.gif)" style="width: 200px; margin-right: 20px; border-radius: 15px;">
+<img width="200px" class="rounded img-fluid" src="https://media.tenor.com/sF-65FzDeFIAAAAM/cat-pondering-cat.gif">
 
 Okay, I'll admit I'm a newbie to TypeScript. I already anticipate enjoying it.
 
