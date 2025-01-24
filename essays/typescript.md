@@ -8,6 +8,7 @@ published: true
 labels:
   - TypeScript
   - First Impressions
+  - Reflection
 ---
 
 <img width="300px" class="rounded img-fluid" src="https://media.tenor.com/sF-65FzDeFIAAAAM/cat-pondering-cat.gif">
