@@ -9,7 +9,7 @@ labels:
   - TypeScript
   - First Impressions
 ---
-p {
+* {
   text-align: justify;
 }
 
