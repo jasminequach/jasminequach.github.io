@@ -4,7 +4,7 @@ type: essay
 title: "Baby Steps"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-21
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
