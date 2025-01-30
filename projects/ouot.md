@@ -20,8 +20,6 @@ Cooperation and communication is an absolutely essential aspect of acting. I had
 
 Working with all kinds of different people is a part of life that will never go away. It is especially present in tech careers, where collaboration is crucial for success. Whether it’s working on a software development project or troubleshooting issues with a team, the ability to work effectively in diverse teams is key. Just like in theater, where I learned to trust my castmates and adapt to changes, in my career as a software developer, I’ll need to be open to adapting, receptive to feedback, and ready to evolve with my colleagues _and_ with technology.
 
-<br>
-
 <div style="text-align: center;">
   <img class="img-fluid" src="../projects/images/ouot-cast-long.png">
 </div>
