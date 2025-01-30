@@ -18,7 +18,7 @@ summary: "A Complex class made in my Program Structure class that represents com
 
 <hr>
 
-<pre style="background-color: grey; white: white; padding: 10px;">
+<pre style="background-color: lightgrey; white: white; padding: 10px;">
   <code>
  /**
    * ADDS the current Complex number to another
