@@ -17,8 +17,8 @@ summary: "A Complex class made in my Program Structure class that represents com
 
 <hr>
 
-<pre><code>
-
+<pre style="background-color: black; color: white; padding: 10px;">
+  <code>
  /**
    * ADDS the current Complex number to another
    * @param addComplex   the Complex object to be added to the current object
@@ -74,8 +74,6 @@ summary: "A Complex class made in my Program Structure class that represents com
     // return a new object with above quotients as parameters
     return Complex(newReal, newImaginary);
   }
-
-  
 </code></pre>
 
 <hr>
