@@ -6,9 +6,9 @@ title: "Complex Numbers Calculator"
 date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A Complex class made in my Program Structure class that represents complex numbers and performs mathematical operations."
+  - C++
+  - Program Structure
+summary: "A class that represents complex numbers and supports mathematical operations using operator overloading."
 ---
 
 <div style="text-align: center;">
