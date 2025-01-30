@@ -13,10 +13,11 @@ summary: "I played my part in a local musical at Leeward Community College."
 ---
 
 <div style="text-align: center;">
-
-  
+  <br><br>
   <img class="img-fluid" src="../projects/images/ouot-cast-long.png">
 </div>
+
+<br><br>
 
 In Fall 2024, I performed on stage at Leeward Community College Theatre in a production of Lisa Matsumoto's [Once Upon One Time](https://www.broadwayworld.com/hawaii/regional/Lisa-Matsumoto-s-ONCE-UPON-ONE-TIME-2796288), a musical full of classic fairytales—all told in pidgin. My role was Red Rose Haku, the local version of Little Red Riding Hood.
 
