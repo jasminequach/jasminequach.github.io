@@ -23,8 +23,7 @@ As the programmer of the project, I was responsible for defining the Complex cla
 
 <hr>
 
-<pre style="background-color: lightgrey; white: white; padding: 10px;">
-  <code>
+<pre style="background-color: lightgrey; white: white; padding: 10px;"><code>
  /**
    * ADDS the current Complex number to another
    * @param addComplex   the Complex object to be added to the current object
