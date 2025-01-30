@@ -56,4 +56,4 @@ As the programmer of the project, I was responsible for defining the Complex cla
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/jasminequach/complex-numbers-calculator"><i class="large github icon "></i>Complex Class</a>
