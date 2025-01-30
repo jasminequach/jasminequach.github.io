@@ -12,7 +12,7 @@ labels:
 summary: "I played my part in a musical at Leeward Community College."
 ---
 
-<img class="img-fluid" src="../project/images/ouot-long.jpg">
+<img class="img-fluid" src="../project/images/ouot-long.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
