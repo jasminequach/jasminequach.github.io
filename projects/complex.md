@@ -15,7 +15,7 @@ summary: "A class that represents complex numbers and supports arithmetic operat
   <img class="img-fluid" src="../projects/images/complex-num.png">
 </div>
 
-This Complex class was a three-part solo project I completed in ICS 212, Fall 2024 using using [UH Unix](https://www2.hawaii.edu/~rnarayan/ics212/main_sub/uhunix.html). It takes user input for two complex numbers and performs arithmetic operations such as addition, subtraction, multiplication, and division, as well as equality and inequality checks. By implementing the Complex class, I gained the opportunity to strengthen my understanding of C++ syntax and object-oriented programming.
+This Complex class was a three-part solo project I completed in ICS 212, Fall 2024 using [UH Unix](https://www2.hawaii.edu/~rnarayan/ics212/main_sub/uhunix.html). It takes user input for two complex numbers and performs arithmetic operations such as addition, subtraction, multiplication, and division, as well as equality and inequality checks. By implementing the Complex class, I gained the opportunity to strengthen my understanding of C++ syntax and object-oriented programming.
 
 I encountered several key concepts in C++ during the implementation of the Complex class, most notably operator overloading and input/output streams that interact with the user.
 
