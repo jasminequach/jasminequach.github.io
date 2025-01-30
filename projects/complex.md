@@ -19,7 +19,7 @@ This Complex class was a three-part solo project I completed in ICS 212, Fall 20
 
 I encountered several key concepts in C++ during the implementation of the Complex class, most notably operator overloading and input/output streams that interact with the user.
 
-As the programmer of the project, I was responsible for defining the Complex class and its member functions, ensuring that it could handle complex number computations. Here is a sample of the operations the Complex class supports:
+As the programmer of the project, I was responsible for defining the Complex class and its member functions, ensuring that it could handle complex number computations. Here is a sample of the operations it supports:
 
 <hr>
 
