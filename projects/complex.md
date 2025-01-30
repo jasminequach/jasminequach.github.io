@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: projects/images/calc-cat.png
+image: projects/images/calculator-cat.png
 title: "Complex Numbers Calculator"
 date: 2024
 published: true
