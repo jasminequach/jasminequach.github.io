@@ -3,7 +3,7 @@ layout: project
 type: project
 image: projects/images/ouot-flyer.png
 title: "Once Upon One Time"
-date: 2024
+date: 11-2024
 published: true
 labels:
   - Teamwork
