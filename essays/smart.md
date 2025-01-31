@@ -25,6 +25,7 @@ That's pretty much what Stack Overflow is for.
 
 <img height="200px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="rounded" src="https://incrediblevanishingpaperweight.wordpress.com/wp-content/uploads/2017/01/mob1.jpg">
 
+<br>
 
 ## I broke my promise
 
@@ -47,7 +48,11 @@ how to create an API for a remove background application using Python. Need step
 
 See what I mean? A question like _that_ earned them nothing but a single downvote. These questions don't attract answers.
 
+<br>
+
 ## Be smart about it
+
+<img width="250px" style="float: left; margin-right: 10px; margin-bottom: 10px;" src="https://www.drelseys.com/wp-content/uploads/2021/12/cat-asks-questions-blog.jpg">
 
 If you want answers, you need to ask smart questions. This is an example of a [smarter](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work) question. Here, a user asks for an explanation on JavaScript closures:
 
