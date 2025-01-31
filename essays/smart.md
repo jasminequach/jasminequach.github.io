@@ -61,8 +61,6 @@ I have seen [the Scheme example](https://en.wikipedia.org/wiki/Scheme_%28program
 * Specific and answerable: prompts clear, direct responses
 * Relevant: relevant to common learning issues faced when studying JavaScript
 
-<br>
-
 This question is _much_, much better. Other Stack Overflow users seem to think so as well. It has gained over 7.5k upvotes and 86 answers, with the [top response](https://stackoverflow.com/a/111111) being an in-depth but user-friendly explanation. This, by the way, is a good example of a smart response.
 
 Notice how this user's question has a _lot_ more upvotes than responses. That shows that it's relevant, intriguing, and helpful to loads of other users. Smart questions don't just help you; they help others as well. A well-crafted question has a lasting impact because it addresses common problems and offers a starting point for useful answers.
