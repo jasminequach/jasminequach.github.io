@@ -29,7 +29,7 @@ That's pretty much what Stack Overflow is for.
 
 Contrary to what they say, it's totally possible to ask a "stupid" question—hey, hey, lower the pitchforks–but it's not needing help that makes someone look "dumb." It's the way they designed their question.
 
-<img height="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://incrediblevanishingpaperweight.wordpress.com/wp-content/uploads/2017/01/mob1.jpg">
+<img height="275px" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://incrediblevanishingpaperweight.wordpress.com/wp-content/uploads/2017/01/mob1.jpg">
 
 This is an example of a ["bad"](https://stackoverflow.com/questions/79399913/how-create-api-for-remove-background-application-using-python) question. The user, wanting a tutorial on how to build a certain tool, writes:
 
