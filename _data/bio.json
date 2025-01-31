@@ -68,6 +68,19 @@
   ],
   "volunteer": [
     {
+      "organization": "UH Mānoa Registered Independent Organizations",
+      "website": "",
+      "position": "ACTIVE MEMBER",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Association for Computing Machinery (Present)",
+        "Timpuyog (Present)",
+        "Mānoa Scholars Club (2023)"
+      ]
+    },
+    {
       "organization": "Summer Fun",
       "website": "https://www.honolulu.gov/parks/program/summer-fun-program.html",
       "position": "JUNIOR LEADER",
@@ -78,19 +91,6 @@
         "Assisted leaders in facilitating physical, educational, and craft activities",
         "Motivated children to participate while maintaining a safe environment",
         "Set up and organized materials before and after activities"
-      ]
-    },
-    {
-      "organization": "UH Mānoa Registered Independent Organizations",
-      "website": "",
-      "position": "ACTIVE MEMBER",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Association for Computing Machinery (ACM), Present",
-        "Timpuyog, Present",
-        "Mānoa Scholars Club, 2023"
       ]
     }
   ],
