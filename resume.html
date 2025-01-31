@@ -57,7 +57,7 @@ layout: home
       <div class="col-lg-9">
         {% for entry in site.data.bio.skills %}
           <p class="m-0">
-            <strong>{{ entry.name }}:</strong>
+            <b>{{ entry.name }}:</b>
               {% for keyword in entry.keywords %}
                 {{ keyword }}{% if forloop.last != true %}, {% endif %}
               {% endfor %}
