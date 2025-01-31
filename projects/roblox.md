@@ -18,15 +18,6 @@ Although [Roblox](https://www.roblox.com/), an online game platform and game cre
 
 As the sole developer of these showcases, I have the freedom to craft immersive, 3D environments that reflect my artistic visions by designing models, orchestrating lighting and sound, and shaping the atmosphere to evoke sentimental ambiences. Users are to engage with my builds through visual storytelling, with paths and layouts that attract them to areas of interest while promoting a natural flow of exploration. One showcase in particular, _Gloomy Sunday_, centered around an urban legend, has accumulated over 1.4k visits and 60 favorites.
 
-<br><br>
-
-<img class="img-fluid" src="../projects/images/lua-code.png" style="width: 350px; float: right; margin-left: 20px; margin-bottom: 20px; margin-top: 10px;">
-
-<br><br>
-A snippet of code that simply loops music over the duration of the game, contributing to the atmosphere.
-
-<br><br>
-
 My showcases have definitely improved over the years; the models have become more detailed and the composition between the atmospheric elements has grown more cohesive. Building them gave me exposure to not only the creative aspects of game development but also _coding_, specifically Lua in Roblox Studio. Over the years, I have learned to construct interactive spaces with intention, balancing technical constraints with artistic vision.
 
 
@@ -40,3 +31,12 @@ My showcases have definitely improved over the years; the models have become mor
 <div style="text-align: center;">
     <img class="img-fluid" src="../projects/images/harvest-ground.png">
 </div>
+
+<br>
+
+<img class="img-fluid" src="../projects/images/lua-code.png" style="width: 350px; float: right; margin-left: 20px; margin-bottom: 20px; margin-top: 10px;">
+
+<br><br>
+A snippet of code that simply loops music over the duration of the game, contributing to the atmosphere.
+
+<br><br>
