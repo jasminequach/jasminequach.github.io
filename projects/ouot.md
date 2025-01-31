@@ -14,7 +14,7 @@ summary: "I played my part in a local musical at Leeward Community College."
 
 <img class="rounded" src="../projects/images/tutu.png" style="width: 200px; float: right; margin-left: 20px; margin-bottom: 20px; margin-top: 10px; border-radius: 15px;">
 
-In Fall 2024, I performed on stage at Leeward Community College Theatre in a production of Lisa Matsumoto's [Once Upon One Time](https://www.broadwayworld.com/hawaii/regional/Lisa-Matsumoto-s-ONCE-UPON-ONE-TIME-2796288), a musical full of classic fairytales—all told in pidgin. My role was Red Rose Haku, the local version of Little Red Riding Hood.
+In Fall 2024, I performed on stage at Leeward Community College Theatre in a production of Lisa Matsumoto's [Once Upon One Time](https://www.broadwayworld.com/hawaii/regional/Lisa-Matsumoto-s-ONCE-UPON-ONE-TIME-2796288), a musical full of classic fairytales—all told in song, dance, and pidgin. My role was Red Rose Haku, the local version of Little Red Riding Hood.
 
 Cooperation and communication is an absolutely essential aspect of acting. I had to not only collaborate with a cast of twenty-four other people but also critically listen to my director and his assistant directors as they brought the scenes to life. I was constantly adapting, both taking in my director's feedback and growing into my character alongside my castmates. Through this experience, I came to appreciate the importance of flexibility and patience, as well as the unified nature of live theater, where each person's role is integral to the overall production. As my director would always tell us, <b>"Each and every one of you are main characters."</b>
 
