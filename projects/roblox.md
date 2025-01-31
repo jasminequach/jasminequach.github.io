@@ -33,7 +33,7 @@ My showcases have definitely improved over the years; the models have become mor
 </div>
 
 <br>
-<img class="img-fluid" src="../projects/images/lua-code.png" style="width: 350px; float: right; margin-left: 20px; margin-bottom: 20px;">
+<img class="img-fluid" src="../projects/images/lua-code.png" style="width: 375px; float: right; margin-left: 20px; margin-bottom: 20px;">
 
 <br><br>
 A snippet of code that simply loops music over the duration of the game, contributing to the atmosphere.
