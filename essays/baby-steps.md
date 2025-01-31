@@ -12,7 +12,7 @@ labels:
 
 ## Education is for everyone!
 
-<img width="300px" class="rounded" style="float: left; margin-right: 10px; margin-bottom: 10px;" src="https://i.pinimg.com/736x/19/95/03/199503e20588e1af3aefa9e67b527bf3.jpg">
+<img width="250px" class="rounded" style="float: left; margin-right: 10px; margin-bottom: 10px;" src="https://i.pinimg.com/736x/19/95/03/199503e20588e1af3aefa9e67b527bf3.jpg">
 
 I had just started elementary school when I stepped into a computer lab for the first time—and it was far from the last. Technology has accompanied me all throughout my education. From virtual learning tools like Quizlet and Khan Academy to video conferencing platforms like Zoom and Google Classroom, I have witnessed how software can not only nurture but also _shape_ learning experiences.
 
