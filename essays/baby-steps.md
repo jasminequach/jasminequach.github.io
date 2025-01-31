@@ -18,6 +18,8 @@ I had just started elementary school when I stepped into a computer lab for the 
 
 My interest in software engineering stems from a deep love for learning, teaching, and creating. I have always found joy in making knowledge accessible, whether through club leadership positions or helping peers better understand challenging concepts, and software development offers the perfect medium to merge my creativity with technology. My goal is to build tools that inspire curiosity and foster growth, just as the technologies I relied on did for me.
 
+<br>
+
 ## _What_ makes the dreamwork?
 
 <img width="500px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2014/08/teamwork_o_1053401.jpg">
