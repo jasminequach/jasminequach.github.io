@@ -23,11 +23,11 @@ That's pretty much what Stack Overflow is for.
 
 [Stack Overflow](https://stackoverflow.com/): the website "every programmer has a tab open to." It's a platform meant for sharing technical knowledge by asking questions and sharing answers. On Stack Overflow, you're there to learn, and millions of other people are more than happy to help. You're _not_ a fool in a sea of geniuses! Or, eh, well...
 
-<img height="325px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="rounded" src="https://incrediblevanishingpaperweight.wordpress.com/wp-content/uploads/2017/01/mob1.jpg">
-
 <br>
 
 ## I broke my promise
+
+<img height="250px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="rounded" src="https://incrediblevanishingpaperweight.wordpress.com/wp-content/uploads/2017/01/mob1.jpg">
 
 Contrary to what they say, it's totally possible to ask a "stupid" question—hey, hey, lower the pitchforks–but it's not needing help that makes someone look "dumb." It's the way they designed their question.
 
@@ -52,7 +52,7 @@ See what I mean? A question like _that_ earned them nothing but a single downvot
 
 ## Be smart about it
 
-<img width="325px" style="float: left; margin-right: 10px; margin-bottom: 10px;" src="https://www.drelseys.com/wp-content/uploads/2021/12/cat-asks-questions-blog.jpg">
+<img width="400px" style="float: left; margin-right: 10px; margin-bottom: 10px;" src="https://www.drelseys.com/wp-content/uploads/2021/12/cat-asks-questions-blog.jpg">
 
 If you want answers, you need to ask smart questions. This is an example of a [smarter](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work) question. Here, a user asks for an explanation on JavaScript closures:
 
