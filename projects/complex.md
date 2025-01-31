@@ -3,7 +3,7 @@ layout: project
 type: project
 image: projects/images/calculator-cat.png
 title: "Complex Numbers Calculator"
-date: 2024
+date: Dec 2024
 published: true
 labels:
   - C++
