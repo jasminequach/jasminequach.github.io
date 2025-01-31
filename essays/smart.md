@@ -44,7 +44,7 @@ See what I mean? A question like _that_ earned them nothing but a single downvot
 
 ## Be smart about it
 
-If you want answers, you need to ask smart questions. This is a much [better](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work) question. Here, a user asks for an explanation on JavaScript closures:
+If you want answers, you need to ask smart questions. This is an example of a [smarter](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work) question. Here, a user asks for an explanation on JavaScript closures:
 
 <div style="background-color: lightgrey; text-color: black; white: white; padding: 10px; word-wrap: break-word;"><code>
 How do JavaScript closures work?
