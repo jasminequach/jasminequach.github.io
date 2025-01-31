@@ -56,7 +56,7 @@ I have seen [the Scheme example](https://en.wikipedia.org/wiki/Scheme_%28program
 
 <br>
 
-<b>So what did this user do well?</br>
+<b>So what did this user do well?</b>
 * Shows effort: the user tried to find the answer on their own before turning to Stack Overflow
 * Specific and answerable: prompts clear, direct responses
 * Relevant: relevant to common learning issues faced when studying JavaScript
