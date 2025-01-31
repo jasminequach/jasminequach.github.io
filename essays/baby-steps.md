@@ -22,4 +22,6 @@ My interest in software engineering stems from a deep love for learning, teachin
 
 Mostly, I am excited for opportunities to collaborate on projects with the new people I’ll meet. Teamwork is a huge, essential part of software development, so refining my skills in communication and problem-solving in group settings is an inevitable part of the journey, yet playing a part in a whole is not unfamiliar to me. After all, I have led clubs, participated in plays, and facilitated school projects. But I know that software development presents its own unique challenges—challenges that give me the chance to create things far greater than I could achieve on my own.
 
-<img width="500px" class="rounded" style="float: center;" src="https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2014/08/teamwork_o_1053401.jpg">
+<img width="500px" class="rounded" style="float: right;" src="https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2014/08/teamwork_o_1053401.jpg">
+
+Yes, this class has introduced TypeScript, sure, but it has also introduced new, friendly faces. I'm pleased to have already made some friends. Learning—and, you know, life—is a lot easier having some of those around.
