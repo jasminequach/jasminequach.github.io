@@ -12,11 +12,12 @@ labels:
 summary: "Atmospheric maps I built in Roblox Studio."
 ---
 
-<img class="img-fluid" src="../projects/images/lua-code.png" style="width: 350px; float: right; margin-left: 20px; margin-bottom: 20px; margin-top: 10px; border-radius: 15px;">
+<img class="img-fluid" src="../projects/images/lua-code.png" style="width: 350px; float: right; margin-left: 20px; margin-bottom: 20px; margin-top: 10px;">
 
+<br><br>
 A snippet of code that simply loops music over the duration of the game, contributing to the atmosphere.
 
-<br>
+<br><br>
 
 <img class="img-fluid" src="../projects/images/cottage-interior.png" style="width: 350px; float: left; margin-right: 20px; margin-bottom: 20px; margin-top: 10px; border-radius: 15px;">
 
