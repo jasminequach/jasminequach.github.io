@@ -75,4 +75,4 @@ This question is _much_, much better. Other Stack Overflow users seem to think s
 
 Notice how this user's question has a _lot_ more upvotes than responses. That shows that it's relevant, intriguing, and helpful to loads of other users. Smart questions don't just help you; they help others as well. A well-crafted question has a lasting impact because it addresses common problems and offers a starting point for useful answers.
 
-Well, there you have it folks. Think harder, ask smarter.
+Well, there you have it, folks. Think harder, ask smarter.
