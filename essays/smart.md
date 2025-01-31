@@ -33,7 +33,7 @@ How create API for remove background application using python
 how to create an API for a remove background application using Python. Need step-by-step guide covers everything from setting up environment to deploying the API, making it easy to build a powerful background removal tool. Perfect for developers and beginners alike!
 </code></div>
 
-*Now, let's go over where they went wrong:*
+<b>Now, let's go over where they went wrong:</b>
 * Not enough information on the tool they want to create
 * Too general: asks for a walkthrough instead of insight on specific challenges
 * Essentially, "Can you walk me through every step of my project?"
