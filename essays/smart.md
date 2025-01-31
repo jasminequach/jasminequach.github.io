@@ -13,7 +13,7 @@ labels:
 
 ## There are no stupid questions, I promise!
 
-<img style="float: left; margin-right: 10px; margin-bottom: 10px;" class="round" src="https://m.media-amazon.com/images/I/41VWXdO8SvL._AC_UF1000,1000_QL80_.jpg">
+<img width="200px" style="float: left; margin-right: 10px; margin-bottom: 10px;" class="round" src="https://m.media-amazon.com/images/I/41VWXdO8SvL._AC_UF1000,1000_QL80_.jpg">
 
 We've all been there—or, well, most of us have. You're sitting in class, listening to your teacher drone on and on and on and... Wait, what did they say? Whatever it was, it did not make a lick of sense. You were paying attention, you swear! You're just confused, and—_uh oh_. It's going to be on the exam? Why is everyone else nodding along like they understand? Like this concept is a piece of cake, carbs and all? Are you really the only fool in sea of geniuses? Obviously, you can't ask for help _now_ or else everybody will think you're a _total_—!
 
