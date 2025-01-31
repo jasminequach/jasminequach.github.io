@@ -27,7 +27,7 @@ Contrary to what they say, it's totally possible to ask a "stupid" question—he
 
 This is an example of a ["bad"](https://stackoverflow.com/questions/79399913/how-create-api-for-remove-background-application-using-python) question. The user, wanting a tutorial on how to build a certain tool, writes:
 
-<div style="background-color: lightgrey; color: black; padding: 10px; word-wrap: break-word;"><code>
+<div style="background-color: lightgrey; padding: 10px; word-wrap: break-word;"><code>
 How create API for remove background application using python
 <br><br>
 how to create an API for a remove background application using Python. Need step-by-step guide covers everything from setting up environment to deploying the API, making it easy to build a powerful background removal tool. Perfect for developers and beginners alike!
@@ -46,12 +46,12 @@ See what I mean? A question like _that_ earned them nothing but a single downvot
 
 If you want answers, you need to ask smart questions. This is an example of a [smarter](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work) question. Here, a user asks for an explanation on JavaScript closures:
 
-<div style="background-color: lightgrey; color: black; padding: 10px; word-wrap: break-word;"><code>
+<div style="background-color: lightgrey; padding: 10px; word-wrap: break-word;"><code>
 How do JavaScript closures work?
 <br><br>
 How would you explain JavaScript closures to someone with a knowledge of the concepts they consist of (for example functions, variables and the like), but does not understand closures themselves?
 
-I have seen [the Scheme example](https://en.wikipedia.org/wiki/Scheme_%28programming_language%29) given on Wikipedia, but unfortunately it did not help.
+I have seen the Scheme example given on Wikipedia, but unfortunately it did not help.
 </code></div>
 
 <br>
