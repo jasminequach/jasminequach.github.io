@@ -25,9 +25,9 @@ That's pretty much what Stack Overflow is for.
 
 Contrary to what they say, it's totally possible to ask a "stupid" question—hey, hey, lower the pitchforks–but it's not needing help that makes someone look "dumb." It's the way they designed their question.
 
-This is an example of a ["bad"](https://stackoverflow.com/questions/79399913/how-create-api-for-remove-background-application-using-python) question. The user writes:
+This is an example of a ["bad"](https://stackoverflow.com/questions/79399913/how-create-api-for-remove-background-application-using-python) question. The user, wanting a tutorial on how to build a certain tool, writes:
 
-<div style="background-color: lightgrey; white: white; padding: 10px; word-wrap: break-word;"><code>
+<div style="background-color: lightgrey; text-color: black; white: white; padding: 10px; word-wrap: break-word;"><code>
 How create API for remove background application using python
 <br><br>
 how to create an API for a remove background application using Python. Need step-by-step guide covers everything from setting up environment to deploying the API, making it easy to build a powerful background removal tool. Perfect for developers and beginners alike!
@@ -36,8 +36,35 @@ how to create an API for a remove background application using Python. Need step
 <br>
 
 <b>Now, let's go over where they went wrong:</b>
-* Not enough information on the tool they want to create
+* Not enough information: what they want to create is unclear
 * Too general: asks for a walkthrough instead of insight on specific challenges
 * Essentially, "Can you walk me through every step of my project?"
 
-See what I mean? A question like _that_ earned them nothing but a single downvote.
+See what I mean? A question like _that_ earned them nothing but a single downvote. These questions don't attract answers.
+
+## Be smart about it
+
+If you want answers, you need to ask smart questions. This is a much [better](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work) question. Here, a user asks for an explanation on JavaScript closures:
+
+<div style="background-color: lightgrey; text-color: black; white: white; padding: 10px; word-wrap: break-word;"><code>
+How do JavaScript closures work?
+<br><br>
+How would you explain JavaScript closures to someone with a knowledge of the concepts they consist of (for example functions, variables and the like), but does not understand closures themselves?
+
+I have seen [the Scheme example](https://en.wikipedia.org/wiki/Scheme_%28programming_language%29) given on Wikipedia, but unfortunately it did not help.
+</code></div>
+
+<br>
+
+<b>So what did this user do well?</br>
+* Shows effort: the user tried to find the answer on their own before turning to Stack Overflow
+* Specific and answerable: prompts clear, direct responses
+* Relevant: relevant to common learning issues faced when studying JavaScript
+
+<br>
+
+This question is _much_, much better. Other Stack Overflow users seem to think so as well. It has gained over 7.5k upvotes and 86 answers, with the [top response](https://stackoverflow.com/a/111111) being an in-depth but user-friendly explanation. This, by the way, is a good example of a smart response.
+
+Notice how this user's question has a _lot_ more upvotes than responses. That shows that it's relevant, intriguing, and helpful to loads of other users. Smart questions don't just help you; they help others as well. A well-crafted question has a lasting impact because it addresses common problems and offers a starting point for useful answers.
+
+Well, there you have it folks. Think harder, ask smarter.
