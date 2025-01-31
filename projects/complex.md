@@ -4,7 +4,7 @@ type: project
 image: projects/images/calculator-cat.png
 title: "Complex Numbers Calculator"
 date: 2024
-published: false
+published: true
 labels:
   - C++
   - Program Structure
