@@ -12,7 +12,7 @@ labels:
 summary: "Atmospheric maps I built in Roblox Studio."
 ---
 
-<img class="img-fluid" src="../projects/images/cottage-interior.png" style="width: 400px; float: left; margin-right: 20px; margin-bottom: 20px; margin-top: 10px; border-radius: 15px;">
+<img class="img-fluid" src="../projects/images/cottage-interior.png" style="width: 350px; float: left; margin-right: 20px; margin-bottom: 20px; margin-top: 10px; border-radius: 15px;">
 
 Although [Roblox](https://www.roblox.com/), an online game platform and game creation system, didn't introduce me to coding, it is what first allowed me to apply programming concepts to my personal endeavors. I began making showcases in middle school as a hobby, designing all the little worlds that popped into my head, and now my creations range from cozy cottages to natural landscapes to places lost in time. Nostalgia is my biggest inspiration.
 
@@ -24,7 +24,7 @@ My showcases have definitely improved over the years; the models have become mor
   <img class="img-fluid" src="../projects/images/cottage-bench.png">
 </div>
 
-<br><br>
+<br>
 
 <div style="text-align: center;">
     <img class="img-fluid" src="../projects/images/harvest-ground.png">
