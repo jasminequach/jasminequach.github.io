@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "It's Not You, It's Your Question"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
 published: true
