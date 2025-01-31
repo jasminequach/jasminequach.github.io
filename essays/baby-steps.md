@@ -12,7 +12,7 @@ labels:
 
 ## Education is for everyone!
 
-<img width="200px" class="rounded float-start pe-4" src="https://i.pinimg.com/736x/19/95/03/199503e20588e1af3aefa9e67b527bf3.jpg">
+<img width="200px" class="rounded" src="https://i.pinimg.com/736x/19/95/03/199503e20588e1af3aefa9e67b527bf3.jpg">
 
 I had just started elementary school when I stepped into a computer lab for the first time—and it was far from the last. Technology has accompanied me all throughout my education. From virtual learning tools like Quizlet and Khan Academy to video conferencing platforms like Zoom and Google Classroom, I have witnessed how software can not only nurture but also _shape_ learning experiences.
 
@@ -21,3 +21,5 @@ My interest in software engineering stems from a deep love for learning, teachin
 ## Bigger teams, bigger dreams
 
 Mostly, I am excited for opportunities to collaborate on projects with the new people I’ll meet. Teamwork is a huge, essential part of software development, so refining my skills in communication and problem-solving in group settings is an inevitable part of the journey, yet playing a part in a whole is not unfamiliar to me. After all, I have led clubs, participated in plays, and facilitated school projects. But I know that software development presents its own unique challenges—challenges that give me the chance to create things far greater than I could achieve on my own.
+
+<img width="300px" class="rounded" style="float: right;" src="https://i.pinimg.com/736x/19/95/03/199503e20588e1af3aefa9e67b527bf3.jpg">
