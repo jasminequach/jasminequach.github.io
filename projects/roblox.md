@@ -32,9 +32,10 @@ My showcases have definitely improved over the years; the models have become mor
     <img class="img-fluid" src="../projects/images/harvest-ground.png">
 </div>
 
-<img class="img-fluid" src="../projects/images/lua-code.png" style="width: 350px; float: right; margin-left: 20px; margin-bottom: 20px; margin-top: 10px;">
+<br>
+<img class="img-fluid" src="../projects/images/lua-code.png" style="width: 350px; float: right; margin-left: 20px; margin-bottom: 20px;">
 
-<br><br><br>
+<br><br>
 A snippet of code that simply loops music over the duration of the game, contributing to the atmosphere.
 
 <br><br>
