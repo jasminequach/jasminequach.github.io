@@ -18,10 +18,10 @@ I had just started elementary school when I stepped into a computer lab for the 
 
 My interest in software engineering stems from a deep love for learning, teaching, and creating. I have always found joy in making knowledge accessible, whether through club leadership positions or helping peers better understand challenging concepts, and software development offers the perfect medium to merge my creativity with technology. My goal is to build tools that inspire curiosity and foster growth, just as the technologies I relied on did for me.
 
-## Bigger teams, bigger dreams
-
-Mostly, I am excited for opportunities to collaborate on projects with the new people I’ll meet. Teamwork is a huge, essential part of software development, so refining my skills in communication and problem-solving in group settings is an inevitable part of the journey, yet playing a part in a whole is not unfamiliar to me. After all, I have led clubs, participated in plays, and facilitated school projects. But I know that software development presents its own unique challenges—challenges that give me the chance to create things far greater than I could achieve on my own.
+## _What_ makes the dreamwork?
 
 <img width="500px" class="rounded" style="float: right;" src="https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2014/08/teamwork_o_1053401.jpg">
 
-Yes, this class has introduced TypeScript, sure, but it has also introduced new, friendly faces. I'm pleased to have already made some friends. Learning—and, you know, life—is a lot easier having some of those around.
+Mostly, I am excited for opportunities to collaborate on projects with the new people I’ll meet. Teamwork is a huge, essential part of software development, so refining my skills in communication and problem-solving in group settings is an inevitable part of the journey, yet playing a part in a whole is not unfamiliar to me. After all, I have led clubs, participated in plays, and facilitated school projects. But I know that software development presents its own unique challenges—challenges that give me the chance to create things far greater than I could achieve on my own.
+
+Yes, this class has introduced TypeScript, sure, but it has also introduced new, friendly faces. I'm pleased to have already made some friends. Learning—and, you know, life—is a lot easier having some of those around. Of course, it'll take a lot more than friendship and ambition to get where I want to be in my career, but maybe, together, we can take baby steps in the right direction.
