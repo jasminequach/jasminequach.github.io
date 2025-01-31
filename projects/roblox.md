@@ -20,6 +20,8 @@ As the sole developer of these showcases, I have the freedom to craft immersive,
 
 My showcases have definitely improved over the years; the models have become more detailed and the composition between the atmospheric elements has grown more cohesive. Building them gave me exposure to not only the creative aspects of game development but also _coding_, specifically Lua in Roblox Studio. Over the years, I have learned to construct interactive spaces with intention, balancing technical constraints with artistic vision.
 
+
+
 <div style="text-align: center;">
   <img class="img-fluid" src="../projects/images/cottage-bench.png">
 </div>
@@ -29,3 +31,7 @@ My showcases have definitely improved over the years; the models have become mor
 <div style="text-align: center;">
     <img class="img-fluid" src="../projects/images/harvest-ground.png">
 </div>
+
+<br>
+
+<img class="img-fluid" src="../projects/images/lua-code.png" style="width: 350px; float: right; margin-right: 20px; margin-bottom: 20px; margin-top: 10px; border-radius: 15px;"> A snippet of code that simply loops music over the duration of the game, contributing to the atmosphere.
