@@ -29,6 +29,8 @@ This is an example of a ["bad"](https://stackoverflow.com/questions/79399913/how
 
 <div style="background-color: lightgrey; white: white; padding: 10px; word-wrap: break-word;"><code>
 How create API for remove background application using python
-<br>
+<br><br>
 how to create an API for a remove background application using Python. Need step-by-step guide covers everything from setting up environment to deploying the API, making it easy to build a powerful background removal tool. Perfect for developers and beginners alike!
 </code></div>
+
+Now, wy 
