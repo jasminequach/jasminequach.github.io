@@ -8,6 +8,7 @@ published: true
 labels:
   - Software Engineering
   - Learning
+  - Goals
 ---
 
 ## Education is for everyone!
