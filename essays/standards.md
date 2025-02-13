@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Raise Your Standards"
+title: "Raising the Standard"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-12
 published: true
 labels:
   - Coding Standards
   - ESLint
-  - VS Code
+  - Reflection
 ---
 
 ## Organization galore!
