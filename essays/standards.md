@@ -17,7 +17,7 @@ labels:
 
 I’d say I’m sort of an organized person. You know, planners, calendars, to-do lists…
 
-All right, fine. I literally cannot function in chaos. It’s just not in my nature. I wouldn’t call myself a perfectionist, but I definitely like having a sense of control over what’s going on around me; it just makes everything feel more manageable. Of course it’s no surprise that I’ve taken a liking to working with coding standards; going in blind with sloppy code is the bane of my existence. Having clear guidelines for formatting, structure, and naming conventions makes coding way less stressful and a lot more satisfying.
+All right, fine. I literally cannot function in chaos. It’s just not in my nature. I wouldn’t call myself a perfectionist, but I definitely like having a sense of control over what’s going on around me; it just makes everything feel more manageable. Of course it’s no surprise that I’ve taken a liking to working with coding standards. Going in blind with sloppy code is the bane of my existence! Having clear guidelines for formatting, structure, and naming conventions makes coding way less stressful and a lot more satisfying.
 
 Plus, it’s nice to know that when I follow these standards, anyone else picking up my code will be able to understand it, even if they don’t know me or my exact thought process. I try to maintain order when taking written notes for the same reason. Do you have any idea how many people ask me for my notes? I’m, like, the notes guy or something.
 
