@@ -11,8 +11,6 @@ labels:
   - VS Code
 ---
 
-<img height="300px" style="display: block; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px" src="https://miro.medium.com/v2/resize:fit:921/1*Wv6e76QEfuswZS0-HReWbg.png">
-
 ## Organization galore!
 
 <img width="300px" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" class="round" src="https://www.shutterstock.com/image-photo/bengal-cat-on-sofa-open-600nw-2477150905.jpg">
