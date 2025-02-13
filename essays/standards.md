@@ -30,6 +30,6 @@ Plus, it’s nice to know that when I follow these standards, anyone else pickin
 
 That being said, I like being organized on my _own_ terms. To be honest, sometimes using ESLint feels a lot like when I was in eighth grade and forced to take Cornell notes instead of notes in the style that _actually_ helped me. (Even now, I am being forced to take Cornell notes—_Cornell_ notes, people! Yuck!—in another college-level class, but I digress…)
 
-I know how to keep my own workspace orderly. A tool that strictly enforces the guidelines can be helpful, but for someone like me, it can also be a little stifling, especially if it’s just catching tiny, trivial errors like an extra new line at the bottom of my code. Overall, I have mixed feelings. I’m sure I’ll adapt to ESLint pestering me by learning to avoid making those errors in the first place, but for now, it’s almost acting like a real backseat driver!
+I know how to keep my own workspace orderly. A tool that strictly enforces the guidelines can be helpful, but for someone like me, it can also be a little stifling, especially if it’s just catching tiny, trivial errors like an extra newline at the bottom of my code. Overall, I have mixed feelings. I’m sure I’ll adapt to ESLint pestering me by learning to avoid making those errors in the first place, but for now, it’s almost acting like a real backseat driver!
 
 <br>
