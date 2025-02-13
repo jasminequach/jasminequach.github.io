@@ -15,11 +15,13 @@ labels:
 
 ## Organization galore!
 
-<img width="300px" style="float: left; margin-right: 10px; margin-bottom: 10px;" class="round" src="https://www.shutterstock.com/image-photo/bengal-cat-on-sofa-open-600nw-2477150905.jpg">
+<img width="300px" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" class="round" src="https://www.shutterstock.com/image-photo/bengal-cat-on-sofa-open-600nw-2477150905.jpg">
 
 I’d say I’m sort of an organized person. You know, planners, calendars, to-do lists…
 
-All right, fine. I literally cannot function in chaos. It’s just not in my nature. Going in blind with sloppy code is the bane of my existence, so it’s no surprise that I’ve taken a liking to working with coding standards. Having clear guidelines for formatting, structure, and naming conventions makes coding way less stressful and a lot more satisfying.
+All right, fine. I literally cannot function in chaos. It’s just not in my nature. I wouldn’t call myself a perfectionist, but I definitely like having a sense of control over what’s going on around me; it just makes everything feel more manageable. Of course it’s no surprise that I’ve taken a liking to working with coding standards; going in blind with sloppy code is the bane of my existence. Having clear guidelines for formatting, structure, and naming conventions makes coding way less stressful and a lot more satisfying.
+
+<br><br>
 
 ## A helpful, little pest
 
