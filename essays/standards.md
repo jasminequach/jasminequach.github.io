@@ -23,8 +23,9 @@ All right, fine. I literally cannot function in chaos. It’s just not in my nat
 
 Plus, it’s nice to know that when I follow these standards, anyone else picking up my code will be able to understand it, even if they don’t know me or my exact thought process. I try to maintain order when taking written notes for the same reason. Do you have any idea how many people ask me for my notes? I’m, like, the notes guy or something.
 
-<br><br>
+<br>
 <hr>
+
 ## A helpful, little pest
 
 <img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="round" src="https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/121530561_10157232828795286_2461461808945351868_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5HP5MHQh-LAQ7kNvgGLBfwJ&_nc_oc=Adj3fEt_uIq8SbwG-Pv9AxymWnNxHQ6Pe5Je1gXeNM5YbZl1qQaiHKcVELb9LCIPrm8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ArWvzMMni9S2p6ih9StXQEp&oh=00_AYDfx23oou7IAQQNnR_k80r6jNRuYvdHssHRx0Mqs1TbIw&oe=67D4E97C">
