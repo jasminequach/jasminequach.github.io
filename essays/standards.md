@@ -13,7 +13,7 @@ labels:
 
 ## Organization galore!
 
-<img width="300px" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" class="round" src="https://www.shutterstock.com/image-photo/bengal-cat-on-sofa-open-600nw-2477150905.jpg">
+<img width="280px" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" class="round" src="https://www.shutterstock.com/image-photo/bengal-cat-on-sofa-open-600nw-2477150905.jpg">
 
 I’d say I’m sort of an organized person. You know, planners, calendars, to-do lists…
 
