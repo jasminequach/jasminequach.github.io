@@ -21,6 +21,6 @@ labels:
   
   That being said, despite its simplicity compared to raw HTML and CSS, there are challenges to using Bootstrap as well. For one, the learning curve can be steep for beginners, but this is mostly because of the vast array of classes you have to get familiar with—and I mean _really_ familiar. Thankfully, it gets easier once you get the hang of it due to repetition and memorization. It becomes faster to work with.
   
-  Combining Bootstrap with custom CSS allows me to inject my personality into my projects, ensuring that my designs remain unique while still benefiting from the simplicity Bootstrap offers. This approach strikes a balance between control and convenience. I can use Bootstrap as a base while still harnessing the creative freedom I crave. So, rather than seeing Bootstrap as a restriction, I view it as the sibling of HTML and CSS. Those three go together, and I don’t plan on separating them.
+  Combining Bootstrap with custom CSS allows me to inject my personality into my projects, ensuring that my designs remain unique while still benefiting from the foundation Bootstrap offers. This approach strikes a balance between control and convenience. I can use Bootstrap as a base while still harnessing the creative freedom I crave. So, rather than seeing Bootstrap as a restriction, I view it as the sibling of HTML and CSS. Those three go together, and I don’t plan on separating them.
 
 </p>
