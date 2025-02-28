@@ -24,7 +24,7 @@ It’s clear that I’m not exactly leaning one way or the other. Rather, there�
 
 ## The Goldilocks zone
 
-That being said, despite its simplicity compared to raw HTML and CSS, there are challenges to using Bootstrap as well. For one, the learning curve can be steep for beginners, but this is mostly because of the vast array of classes you have to get familiar with—and I mean _really_ familiar. Thankfully, it gets easier once you get the hang of it due to repetition and memorization. It becomes faster to work with.
+That being said, despite its simplicity compared to raw HTML and CSS, there are challenges to using Bootstrap as well. For one, the learning curve can be steep for beginners, but this is mostly because of the vast array of classes you have to get familiar with—and I mean _really_ familiar. Thankfully, it gets easier once you get the hang of it due to repetition and memorization. Bootstrap is just _faster_ to work with.
 
 Check out the [Moomin](https://www.moomin.com/en/) home page I recreated in Bootstrap (and a fair bit of CSS):
 
@@ -36,6 +36,6 @@ Check out the [Moomin](https://www.moomin.com/en/) home page I recreated in Boot
 
 <br>
 
-Pretty nifty what these guys can do.
+Pretty nifty what these guys can let us do.
 
 Combining Bootstrap with custom CSS allows me to inject my personality into my projects, ensuring that my designs remain unique while still benefiting from the foundation Bootstrap offers. This approach strikes a balance between control and convenience. I can use Bootstrap as a base while still harnessing the creative freedom I crave. So, rather than seeing Bootstrap as a restriction, I view it as the sibling of HTML and CSS. Those three go together, and I don’t plan on separating them.
