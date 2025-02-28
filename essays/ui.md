@@ -14,7 +14,7 @@ labels:
 
 ## With great power comes great responsibility... and a giant headache
 
-<img width="300px" style="float: right" src="https://www.shutterstock.com/image-photo/cat-angry-about-working-home-600nw-1695650623.jpg">
+<img width="300px" style="float: right; margin-left: 10px;" src="https://www.shutterstock.com/image-photo/cat-angry-about-working-home-600nw-1695650623.jpg">
 
 Raw HTML and CSS is one extreme: full control but lots of manual work—a real pain in the butt for anything beyond a simple page. But Bootstrap 5 on its own is on the opposite end of the spectrum: fast and structured yet sometimes restrictive. You know me, I like to write my own destiny. I will not be confined to rigid layouts and generic styles! At the same time, relying solely on HTML and CSS puts a little _too_ much control at my fingertips. You think I’m going to sit here and micromanage every pixel? N to the O. I’m not playing god!
   
@@ -26,9 +26,13 @@ That being said, despite its simplicity compared to raw HTML and CSS, there are 
 
 Check out the [Moomin](https://www.moomin.com/en/) home page I recreated in Bootstrap (and a fair bit of CSS):
 
+<br>
+
 <div style="text-align: center">
-  <img width="300px" src="../essays/images/moomin-ui.png">
+  <img width="600px" src="../essays/images/moomin-ui.png">
 </div>
+
+<br>
 
 Pretty nifty what these guys can do.
 
