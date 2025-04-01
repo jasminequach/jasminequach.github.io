@@ -18,7 +18,7 @@ _Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
 
 ## Overview: Problem & Solution
 
-<img height="250px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://i0.wp.com/mrfrs.org/wp-content/uploads/2020/04/Kittens.jpg?fit=800%2C800&ssl=1">
+<img height="250px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://i0.wp.com/mrfrs.org/wp-content/uploads/2020/04/Kittens.jpg?fit=800%2C800&ssl=1">
 
 **The problem**: Through web services like [Rate My Professor](https://www.ratemyprofessors.com/), students are able to access reviews to help them gain insight on what to expect from a professor and their course—but professors have no clear way to gauge the same from their students.
 
@@ -33,7 +33,7 @@ _Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
 
 ## Mockup Page Ideas
 
-<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://media.istockphoto.com/id/1284090931/photo/cat-teacher-and-its-students-2.jpg?s=612x612&w=0&k=20&c=0I9gF9jTAHkloUG6jQ4T6l_HLeo37YoD28uNwWeEsGE=">
+<img height="300px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://media.istockphoto.com/id/1284090931/photo/cat-teacher-and-its-students-2.jpg?s=612x612&w=0&k=20&c=0I9gF9jTAHkloUG6jQ4T6l_HLeo37YoD28uNwWeEsGE=">
 
 The Rate My Student application may only be accessed by UH instructors. Once a user profile, verified with a UH email address, is created, the user can search for students by email. If there are no entries made for that student, the user can create a new page, where they may leave a review.
 
@@ -51,7 +51,7 @@ Some possible mockup pages include:
 
 ## Use Case Ideas
 
-<img height="350px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://m.media-amazon.com/images/I/612va7xFg+L.jpg">
+<img height="350px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://m.media-amazon.com/images/I/612va7xFg+L.jpg">
 
 1.) A professor decides to assess a student's stats in order to decide whether to let them be overridden into a class. The professor arrives at the landing page, logs in, arrives at the home page, searches for and selects the student, and arrives at the page containing all reviews of the student. The reviews provide the professor with the student's capabilities and other professors' impressions of the student.
 
