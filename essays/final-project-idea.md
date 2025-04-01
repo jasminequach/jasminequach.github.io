@@ -17,7 +17,7 @@ This essay is a collaboration between
 * Derrick Quiama
 * Binh Tran
 
-<br>
+<hr>
 
 ## Overview: Problem & Solution
 
@@ -30,7 +30,6 @@ This essay is a collaboration between
 * Leave suggestions on how to best work with past students
 * Assess students' qualifications
 
-<br>
 <hr>
 
 ## Mockup Page Ideas
@@ -48,7 +47,6 @@ Some possible mockup pages include:
 * User ratings page
 * Student review page
 
-<br>
 <hr>
 
 ## Use Case Ideas
@@ -61,7 +59,6 @@ Some possible mockup pages include:
 
 4.) A professor had a difficult experience teaching a student and wants to share their perspective in order to help the student's future instructors make accommodations. The professor arrives at the landing page, logs in, arrives at the home page, searches for and selects the student, arrives at the page containing all reviews of the student, and creates a new entry. This new review might list the student's strengths and weaknesses, what does and doesn't help the student, and advice on how to work with them.
 
-<br>
 <hr>
 
 ## Beyond the Basics
