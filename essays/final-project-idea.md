@@ -31,9 +31,9 @@ _Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
 <br>
 <hr>
 
-## Mockup Page Ideas
-
 <img height="300px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://media.istockphoto.com/id/1284090931/photo/cat-teacher-and-its-students-2.jpg?s=612x612&w=0&k=20&c=0I9gF9jTAHkloUG6jQ4T6l_HLeo37YoD28uNwWeEsGE=">
+
+## Mockup Page Ideas
 
 The Rate My Student application may only be accessed by UH instructors. Once a user profile, verified with a UH email address, is created, the user can search for students by email. If there are no entries made for that student, the user can create a new page, where they may leave a review.
 
