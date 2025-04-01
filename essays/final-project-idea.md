@@ -10,8 +10,6 @@ labels:
   - Nextjs
 ---
 
-<img height="200px" class="rounded" style="display: block; margin-right: 10px; margin-top: 10px;" src="https://thumbs.dreamstime.com/b/photo-paws-several-cats-center-symbolizing-teamwork-315044363.jpg">
-
 ## Collaborators
 _Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
 
@@ -19,6 +17,8 @@ _Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
 <hr>
 
 ## Overview: Problem & Solution
+
+<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://i0.wp.com/mrfrs.org/wp-content/uploads/2020/04/Kittens.jpg?fit=800%2C800&ssl=1">
 
 **The problem**: Through web services like [Rate My Professor](https://www.ratemyprofessors.com/), students are able to access reviews to help them gain insight on what to expect from a professor and their course—but professors have no clear way to gauge the same from their students.
 
