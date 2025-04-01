@@ -11,18 +11,12 @@ labels:
 ---
 
 ## Collaborators
-This essay is a collaboration between
-* Jasmine Quach
-* Martin Adra
-* Derrick Quiama
-* Binh Tran
+_Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
 
 <br>
 <hr>
 
 ## Overview: Problem & Solution
-
-<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://m.media-amazon.com/images/I/612va7xFg+L.jpg">
 
 **The problem**: Through web services like [Rate My Professor](https://www.ratemyprofessors.com/), students are able to access reviews to help them gain insight on what to expect from a professor and their course—but professors have no clear way to gauge the same from their students.
 
@@ -53,6 +47,8 @@ Some possible mockup pages include:
 <hr>
 
 ## Use Case Ideas
+
+<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://m.media-amazon.com/images/I/612va7xFg+L.jpg">
 
 1.) A professor decides to assess a student's stats in order to decide whether to let them be overridden into a class. The professor arrives at the landing page, logs in, arrives at the home page, searches for and selects the student, and arrives at the page containing all reviews of the student. The reviews provide the professor with the student's capabilities and other professors' impressions of the student.
 
