@@ -10,10 +10,10 @@ labels:
   - Nextjs
 ---
 
+<img height="200px" class="rounded" style="float: left; margin-right: 10px; margin-top: 10px;" src="https://thumbs.dreamstime.com/b/photo-paws-several-cats-center-symbolizing-teamwork-315044363.jpg">
+
 ## Collaborators
 _Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
-
-<img height="200px" class="rounded" style="float: left; margin-right: 10px; margin-top: 10px;" src="https://thumbs.dreamstime.com/b/photo-paws-several-cats-center-symbolizing-teamwork-315044363.jpg">
 
 <br>
 <hr>
