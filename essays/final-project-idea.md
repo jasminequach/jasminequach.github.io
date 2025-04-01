@@ -27,8 +27,6 @@ This essay is a collaboration between
 * Leave suggestions on how to best work with past students
 * Assess students' qualifications
 
-to gain insights into a professor's teaching style, course difficulty, and overall student experience
-
 ## Mockup Page Ideas
 
 The Rate My Student application may only be accessed by UH instructors. Once a user profile, verified with a UH email address, is created, the user can search for students by email. If there are no entries made for that student, the user can create a new page, where they may leave a review.
