@@ -18,7 +18,7 @@ _Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
 
 ## Overview: Problem & Solution
 
-<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://i0.wp.com/mrfrs.org/wp-content/uploads/2020/04/Kittens.jpg?fit=800%2C800&ssl=1">
+<img height="250px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://i0.wp.com/mrfrs.org/wp-content/uploads/2020/04/Kittens.jpg?fit=800%2C800&ssl=1">
 
 **The problem**: Through web services like [Rate My Professor](https://www.ratemyprofessors.com/), students are able to access reviews to help them gain insight on what to expect from a professor and their course—but professors have no clear way to gauge the same from their students.
 
@@ -26,6 +26,7 @@ _Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
 * Make preparations to accommodate to incoming students' learning styles
 * Leave suggestions on how to best work with past students
 * Assess students' qualifications
+* Make student recommendations to other instructors
 
 <br>
 <hr>
