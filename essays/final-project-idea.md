@@ -68,6 +68,6 @@ Some possible mockup pages include:
 
 Some advanced features could be added after implenting basic functionality:
 * The ability for users to "star," "favorite," or "save" individual reviews or student review pages
-* The ability to sync up a class roster in order to retrieve reviews quicker
+* The ability to sync up a class roster in order to retrieve reviews more quickly
 * The ability to reply to other users' reviews
 * The ability to recommend students to other users
