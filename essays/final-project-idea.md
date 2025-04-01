@@ -10,7 +10,7 @@ labels:
   - Nextjs
 ---
 
-<img height="200px" class="rounded" style="float: left; margin-right: 10px; margin-top: 10px;" src="https://thumbs.dreamstime.com/b/photo-paws-several-cats-center-symbolizing-teamwork-315044363.jpg">
+<img height="200px" class="rounded" style="display: block; margin-right: 10px; margin-top: 10px;" src="https://thumbs.dreamstime.com/b/photo-paws-several-cats-center-symbolizing-teamwork-315044363.jpg">
 
 ## Collaborators
 _Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
@@ -50,7 +50,7 @@ Some possible mockup pages include:
 
 ## Use Case Ideas
 
-<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://m.media-amazon.com/images/I/612va7xFg+L.jpg">
+<img height="350px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://m.media-amazon.com/images/I/612va7xFg+L.jpg">
 
 1.) A professor decides to assess a student's stats in order to decide whether to let them be overridden into a class. The professor arrives at the landing page, logs in, arrives at the home page, searches for and selects the student, and arrives at the page containing all reviews of the student. The reviews provide the professor with the student's capabilities and other professors' impressions of the student.
 
