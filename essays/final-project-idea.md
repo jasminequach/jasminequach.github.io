@@ -21,6 +21,8 @@ This essay is a collaboration between
 
 ## Overview: Problem & Solution
 
+<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://media.istockphoto.com/id/1284090931/photo/cat-teacher-and-its-students-2.jpg?s=612x612&w=0&k=20&c=0I9gF9jTAHkloUG6jQ4T6l_HLeo37YoD28uNwWeEsGE=">
+
 **The problem**: Through web services like [Rate My Professor](https://www.ratemyprofessors.com/), students are able to access reviews to help them gain insight on what to expect from a professor and their course—but professors have no clear way to gauge the same from their students.
 
 **The solution**: The Rate My Student application allows instructors to read and write reviews on UH students in order to:
@@ -33,7 +35,7 @@ This essay is a collaboration between
 
 ## Mockup Page Ideas
 
-<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://media.istockphoto.com/id/1284090931/photo/cat-teacher-and-its-students-2.jpg?s=612x612&w=0&k=20&c=0I9gF9jTAHkloUG6jQ4T6l_HLeo37YoD28uNwWeEsGE=">
+<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://m.media-amazon.com/images/I/612va7xFg+L.jpg">
 
 The Rate My Student application may only be accessed by UH instructors. Once a user profile, verified with a UH email address, is created, the user can search for students by email. If there are no entries made for that student, the user can create a new page, where they may leave a review.
 
