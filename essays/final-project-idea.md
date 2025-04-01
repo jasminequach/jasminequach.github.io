@@ -29,10 +29,11 @@ This essay is a collaboration between
 * Assess students' qualifications
 
 <br>
+<hr>
 
 ## Mockup Page Ideas
 
-<img height="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://media.istockphoto.com/id/831554438/photo/cat-teacher-at-blackboard-5.jpg?s=612x612&w=0&k=20&c=_TJPxahtih2-tb_v81oVN6PSWu7t9hxX2tTNMWpZ2lk=">
+<img height="300px" class="rounded" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://media.istockphoto.com/id/1284090931/photo/cat-teacher-and-its-students-2.jpg?s=612x612&w=0&k=20&c=0I9gF9jTAHkloUG6jQ4T6l_HLeo37YoD28uNwWeEsGE=">
 
 The Rate My Student application may only be accessed by UH instructors. Once a user profile, verified with a UH email address, is created, the user can search for students by email. If there are no entries made for that student, the user can create a new page, where they may leave a review.
 
@@ -46,6 +47,7 @@ Some possible mockup pages include:
 * Student review page
 
 <br>
+<hr>
 
 ## Use Case Ideas
 
@@ -58,6 +60,7 @@ Some possible mockup pages include:
 4.) A professor had a difficult experience teaching a student and wants to share their perspective in order to help the student's future instructors make accommodations. The professor arrives at the landing page, logs in, arrives at the home page, searches for and selects the student, arrives at the page containing all reviews of the student, and creates a new entry. This new review might list the student's strengths and weaknesses, what does and doesn't help the student, and advice on how to work with them.
 
 <br>
+<hr>
 
 ## Beyond the Basics
 
