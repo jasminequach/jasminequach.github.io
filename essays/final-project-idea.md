@@ -11,7 +11,7 @@ labels:
 ---
 
 ## Collaborators
-_Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran._
+_Jasmine Quach, Martin Adra, Derrick Quiama, and Binh Tran_
 
 <br>
 <hr>
