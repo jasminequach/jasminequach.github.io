@@ -24,6 +24,7 @@ That's where design patterns come in. Design patterns are reusable solutions to 
 * <b>Model-View-Controller (MVC):</b> separates an application into three parts: model (data), view (user interface), and controller (user input)
 
 <br>
+<hr>
 
 <img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="rounded" src="https://yt3.googleusercontent.com/612AwBlYgjEci6ejL6u9rt-khLxfLcNyZuB55sTs_4SCKxHhjfVrdl9yCF5PnjZVf1hob6tv=s900-c-k-c0x00ffffff-no-rj">
 
