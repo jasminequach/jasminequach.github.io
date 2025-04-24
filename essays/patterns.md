@@ -29,7 +29,7 @@ That's where design patterns come in. Design patterns are reusable solutions to 
 
 ##  Patterns here, there, and everywhere!
 
-Personally, I've already been using design patterns in my code without even realizing it at first. They are especially prevalent in projects like [Cooking Compass](https://github.com/Cooking-Compass), which combines Next.js with React Bootstrap for styling and structure. This is a good example of MVC, where the model is the database, the view is what the user sees via the React and Bootstrap components, and the controller is everything that handles what happens when the user clicks a button (and other user interactions).
+Personally, I've already been using design patterns in my code without even realizing it at first. They are especially prevalent in projects like [Cooking Compass](https://github.com/Cooking-Compass), which combines Next.js with React Bootstrap for styling and structure. This is a good example of MVC, where the model is the database, the view is what the user sees via the React and Bootstrap components, and the controller is everything that handles what happens when a button-click (and other user interactions) occurs.
 
 Cooking Compass also uses the Observer pattern. When the user submits a recipe, the app needs to update what the recipe list displays. The Observer pattern allows the recipe list (the observer) to automatically update whenever the data (the subject) changes, ensuring that the user sees the most up-to-date list without needing to refresh the page manually.
 
