@@ -11,7 +11,7 @@ labels:
   - Optimization
 ---
 
-<img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="rounded" src="https://en.meming.world/images/en/4/4a/Modern_Problems_Require_Modern_Solutions.jpg">
+<img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="rounded" src="https://compote.slate.com/images/8a5bf959-9321-4a83-b960-dad1120144ac.jpeg?width=780&height=520&rect=1560x1040&offset=0x0">
 
 ## Modern problems require modern solutions...
 
@@ -23,10 +23,14 @@ That's where design patterns come in. Design patterns are reusable solutions to 
 * <b>Observer:</b> defines a one-to-many dependency relationship where a change in one object (the subject) triggers updates in all dependent objects (observers)
 * <b>Model-View-Controller (MVC):</b> separates an application into three parts: model (data), view (user interface), and controller (user input)
 
-<img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="rounded" src="https://compote.slate.com/images/8a5bf959-9321-4a83-b960-dad1120144ac.jpeg?width=780&height=520&rect=1560x1040&offset=0x0">
+<br>
+
+<img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="rounded" src="https://yt3.googleusercontent.com/612AwBlYgjEci6ejL6u9rt-khLxfLcNyZuB55sTs_4SCKxHhjfVrdl9yCF5PnjZVf1hob6tv=s900-c-k-c0x00ffffff-no-rj">
 
 ##  Patterns here, there, and everywhere!
 
 Personally, I've already been using design patterns in my code without even realizing it at first. They are especially prevalent in bigger projects like [Cooking Compass](https://github.com/Cooking-Compass), which combines Next.js with React Bootstrap for structure and styling. This is a good example of MVC, where the model is the database, the view is what the user sees via the React and Bootstrap components, and the controller is everything that handles what happens when the user clicks a button (and other user interactions).
 
 Cooking Compass also uses the Observer pattern. When the user submits a recipe, the app needs to update what the recipe list displays. The Observer pattern allows the recipe list (the observer) to automatically update whenever the data (the subject) changes, ensuring that the user sees the most up-to-date list without needing to refresh the page manually.
+
+Ultimately, I've found that using design patterns like MVC and Observer in the development of Cooking Compass keeps the app organized and easy to maintain. It enhances the overall user experience, making sure everything runs smoothly as the project grows.
