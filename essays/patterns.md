@@ -11,7 +11,7 @@ labels:
   - Optimization
 ---
 
-<img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="round" src="https://compote.slate.com/images/8a5bf959-9321-4a83-b960-dad1120144ac.jpeg?width=780&height=520&rect=1560x1040&offset=0x0">
+<img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="rounded" src="https://compote.slate.com/images/8a5bf959-9321-4a83-b960-dad1120144ac.jpeg?width=780&height=520&rect=1560x1040&offset=0x0">
 
 ## Patterns here, there, and everywhere!
 
