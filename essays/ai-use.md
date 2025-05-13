@@ -106,6 +106,8 @@ I think we’ve all been there: spending hours and hours searching for the one l
 <br>
 <hr>
 
+<img height="275px" class="rounded" style="display: block; margin: 0 auto 20px;" src="https://media.istockphoto.com/id/1997900524/photo/cute-curious-cat-with-question-marks.jpg?s=612x612&w=0&k=20&c=15Zk0xt4A7CUsLoMHzHSFde5taNSf5HkqlQGUHyhgnE=">
+
 ## Impact on learning
 
 Well, it’s safe to say that AI has definitely enhanced my learning experience. It’s helped me understand tough concepts more quickly, especially when I can talk through problems with it like a tutoring session. I feel like I’ve gotten better at debugging and thinking through problems, since ChatGPT can guide me without handing me all the answers. That said, it will never replace actual learning—you still have to put in the effort because simply copying will not suffice. But overall, it’s made studying software engineering less frustrating and a lot more doable.
