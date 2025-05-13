@@ -21,7 +21,7 @@ Throughout the semester, I’ve mostly used ChatGPT to get help understanding ne
 <br>
 <hr>
 
-## Good times with my buddy 'ol pals
+## Good times with my buddies
 
 Now, how exactly did I incorporate AI into my work in this class?
 
