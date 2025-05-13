@@ -41,7 +41,7 @@ Likewise, I followed pretty much the same system for the in-class WODs. There ha
 
 <br>
 
-### Essays:
+##### Essays:
 
 I don’t like to use AI for my essays. Even outside of class, I’m super into writing and sharing my ideas, so I don’t feel the need to rely on AI to articulate my thoughts. I occasionally go to ChatGPT for quick grammar feedback on personal projects, but the writing process for this class has been pretty straightforward.
 
