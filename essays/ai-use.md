@@ -14,9 +14,9 @@ labels:
 
 ## My pals ChatGPT and Co-Pilot
 
-AI tools such as ChatGPT prove to be efficient, accessible resources for education and development, especially for software engineers, as long as people don’t over-depend on them—but rather turn to them for assistance. In my experience, learning with AI is best done via conversation; the model explains a topic to you, you respond with questions, the model addresses them, and so on. Not a big fan of that copy-and-paste mumbo jumbo.
+AI tools such as ChatGPT prove to be efficient, accessible resources for education and development, especially for software engineers, as long as people don’t overdepend on them—but rather turn to them for assistance. In my experience, learning with AI is best done via conversation; the model explains a topic to you, you respond with questions, the model addresses them, and so on. Not a big fan of that copy-and-paste mumbo jumbo.
 
-Throughout the semester, I’ve mostly used ChatGPT to get help understanding new concepts and lead me through installations, but towards the end, I began to make use of GitHub Co-Pilot. ChatGPT, which I use for tutoring and practice for almost every class I take, is my favorite.
+Throughout the semester, I’ve mostly used ChatGPT to get help understanding new concepts and help lead me through installations, but towards the end, I began to make use of GitHub Co-Pilot. ChatGPT, which I use for tutoring and practice for almost every class I take, is my favorite.
 
 <br>
 <hr>
@@ -27,15 +27,15 @@ Now, how exactly did I incorporate AI into my work in this class?
 
 <br>
 
-### Experience WODs:
+##### Experience WODs:
 
 I usually opted to avoid using AI during the experience WODs because I felt it was important to challenge myself by solving it on my own first, even if I didn’t finish in time. Plus, most of the experiences provided video solutions made by the instructors, so if I ever needed help, I often just referred to those. Sometimes, however, I turned to ChatGPT if I was completely stuck and wanted to know what I was doing wrong.
 
 <br>
 
-### In-class practice WODs & in-class WODs:
+##### In-class practice WODs & in-class WODs:
 
-I tried not to use AI too much during the practice WODs because I wanted to prepare myself for the real deal, but there had been quite a few times when I found myself absolutely stuck I ended up turning to ChatGPT anyway because there have been quite a few times when I couldn’t figure out why I was stuck and wanted help debugging so I could move forward, especially if it was a more complicated WOD and there was no way for me to progress otherwise. For instance, something as simple as not realizing I forgot to put ‘use client’ at the top has messed me up before, and ChatGPT pointed it out to me.
+I tried not to use AI too much during the practice WODs because I wanted to prepare myself for the real deal, but there had been quite a few times when I found myself absolutely stuck, and I ended up turning to ChatGPT anyway because there have been quite a few times when I couldn’t figure out why I was stuck and wanted help debugging so I could move forward, especially if it was a more complicated WOD and there was no way for me to progress otherwise. For instance, something as simple as not realizing I forgot to put ‘use client’ at the top has messed me up before, and ChatGPT pointed it out.
 
 Likewise, I followed pretty much the same system for the in-class WODs. There have been a few times when I had forgotten a single line that totally prevented my code from working, but I couldn’t figure out the problem on my own. I mean, I always tried to solve it on my own, but after a certain point, I was just wasting precious time—and my little issues weren’t even the “heart” of the WOD, so by spending too much time trying to search for the bug, I was losing out on the “real” practice.
 
@@ -47,7 +47,7 @@ I don’t like to use AI for my essays. Even outside of class, I’m super into 
 
 <br>
 
-### Final project:
+##### Final project:
 
 I definitely used AI all throughout working on the final project. I didn’t want to just feed the model prompts and have it regurgitate the answers for me, but when you’re making an application, there is a lot to keep track of. I mean, the WODs were decent practice, and I at least got acquainted with the different procedures; retaining all the information at once is a different story.
 
@@ -55,7 +55,7 @@ I’d say I mostly went to ChatGPT for things like reminders on different CSS pr
 
 <br>
 
-### Learning a concept:
+##### Learning a concept:
 
 I’m always happy to talk about this because, like I’ve said, I’m a big advocate for using ChatGPT as a tutor. I even use it to review material before exams—so of course I’ve used it before WODs.
 
@@ -63,15 +63,15 @@ I tell it something like, “Can you help me learn about [topic]? I want to ask 
 
 <br>
 
-### Answering questions in class or in Discord & asking or answering smart-questions:
+##### Answering questions in class or in Discord & asking or answering smart-questions:
 
-I never really asked for help on or answered questions about what we were learning in the experiences. If I had something to ask my peers or instructors, it was always administrative stuff that didn’t require actual knowledge about the material.
+I never really asked for help or answered questions about what we were learning in the experiences. If I had something to ask my peers or instructors, it was always administrative stuff that didn’t require actual knowledge about the material.
 
 The same goes for smart questions. It was always simply unnecessary to involve AI. 
 
 <br>
 
-### Coding examples:
+##### Coding examples:
 
 I usually read up on articles first when looking for examples, but ChatGPT is a good tool as well. I’m slightly more inclined to trust the articles since they are more likely to be reviewed, edited, and definitely correct, whereas I have to be more careful with the information ChatGPT fetches for me.
 
@@ -79,13 +79,13 @@ I specifically recall asking ChatGPT to give me quite a few examples on function
 
 <br>
 
-### Explaining code:
+##### Explaining code:
 
 AI isn’t my go-to when it comes to understanding what blocks of code do. I try to analyze it myself first; after all, breaking stuff down is more helpful when it comes to rebuilding it. However, if I ever found myself stuck, then sure, I would ask ChatGPT to explain what each line did. I mean, literally, I’ve pasted blocks of code and told it, “Can you explain what each line does one by one?” This method was helpful when I didn’t get WOD solutions provided in class; asking for explanations gave me the opportunity to walk through the solutions more slowly.
 
 <br>
 
-### Writing code:
+##### Writing code:
 
 I prefer to try and understand the code I am writing rather than copy-and-pasting whatever the model generates, but as I have always emphasized, I still think it is acceptable (and, in some cases, I even encourage it) to refer to ChatGPT as you code as long as you maintain that it is a learning experience.
 
@@ -93,13 +93,13 @@ As I mentioned, I needed the most help during the final project while coding the
 
 <br>
 
-### Documenting code:
+##### Documenting code:
 
 I don’t use AI to document my code. Commentation is personal—they are for me to look back on and understand, so what I write is suited for me specifically. I know myself better than ChatGPT does. Of course, my comments should be understandable for others who view my code as well, but I think they are already concise enough as is.
 
 <br>
 
-### Quality assurance:
+##### Quality assurance:
 
 I think we’ve all been there: spending hours and hours searching for the one little bug that’s screwing up the whole thing. It’s like looking for a needle in a haystack. As a programmer, having AI there to check my code makes my life a million times easier. There have been times where I’d been working for hours and just couldn’t be bothered to spend way too long digging through all my files to find the issue. I just go, “What is causing this error?” and it gives it to me lickety split. Incredible.
 
@@ -140,7 +140,7 @@ I think the best learning happens when you use both. Teachers help with deeper u
 
 AI is constantly being developed; it will keep getting better at personalizing learning—maybe even automatically adapting to one’s style or level. I’d be very surprised if it didn’t become more common to see it built into course platforms.
 
-The biggest challenge is making sure students don’t rely on it too much. Unfortunately, not enough people have the willpower—or even care enough—to not over-depend on AI. It is literally destroying people’s ability to think critically, and I am worried for future generations, given how many youngsters use it to plagiarize. Ideally, AI should guide learning, not replace it.
+The biggest challenge is making sure students don’t rely on it too much. Unfortunately, not enough people have the willpower—or even care enough—to not overdepend on AI. It is literally destroying people’s ability to think critically, and I am worried for future generations, given how many youngsters use it to plagiarize. Ideally, AI should guide learning, not replace it.
 
 <br>
 
