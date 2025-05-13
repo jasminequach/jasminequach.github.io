@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "AI: Handy Dandy Assistants"
 # All dates must be YYYY-MM-DD format!
-date: 2025-04-12
+date: 2025-05-12
 published: true
 labels:
   - AI
