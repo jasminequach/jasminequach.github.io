@@ -85,7 +85,9 @@ I think we’ve all been there: spending hours and hours searching for the one l
 <hr>
 <br>
 
-<img height="500px" class="rounded" style="display: block; margin: 0 auto 20px;" src="https://media.istockphoto.com/id/1997900524/photo/cute-curious-cat-with-question-marks.jpg?s=612x612&w=0&k=20&c=15Zk0xt4A7CUsLoMHzHSFde5taNSf5HkqlQGUHyhgnE=">
+<img height="400px" class="rounded" style="display: block; margin: 0 auto 20px;" src="https://media.istockphoto.com/id/1997900524/photo/cute-curious-cat-with-question-marks.jpg?s=612x612&w=0&k=20&c=15Zk0xt4A7CUsLoMHzHSFde5taNSf5HkqlQGUHyhgnE=">
+
+<br>
 
 ## Impact on learning
 
