@@ -12,7 +12,7 @@ labels:
 
 <img height="275px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://www.worldsbestcatlitter.com/wp-content/uploads/2023/07/main-img_cats-and-AI_blog.jpg">
 
-## My pals ChatGPT and Co-Pilot
+## My pals ChatGPT and Co-Pilot!
 
 AI tools such as ChatGPT prove to be efficient, accessible resources for education and development, especially for software engineers, as long as people don’t overdepend on them—but rather _turn to_ them for assistance. In my experience, learning with AI is best done via conversation; the model explains a topic to you, you respond with questions, the model addresses them, and so on. Not a big fan of that copy-and-paste mumbo jumbo.
 
