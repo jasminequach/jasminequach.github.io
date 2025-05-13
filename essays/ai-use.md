@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img height="250px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://www.worldsbestcatlitter.com/wp-content/uploads/2023/07/main-img_cats-and-AI_blog.jpg">
+<img height="275px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://www.worldsbestcatlitter.com/wp-content/uploads/2023/07/main-img_cats-and-AI_blog.jpg">
 
 ## My pals ChatGPT and Co-Pilot
 
