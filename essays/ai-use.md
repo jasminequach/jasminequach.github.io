@@ -25,13 +25,9 @@ Throughout the semester, I’ve mostly used ChatGPT to get help understanding ne
 
 Now, how exactly did I incorporate AI into my work in this class?
 
-<br>
-
 ##### Experience WODs:
 
 I usually opted to avoid using AI during the experience WODs because I felt it was important to challenge myself by solving it on my own first, even if I didn’t finish in time. Plus, most of the experiences provided video solutions made by the instructors, so if I ever needed help, I often just referred to those. Sometimes, however, I turned to ChatGPT if I was completely stuck and wanted to know what I was doing wrong.
-
-<br>
 
 ##### In-class practice WODs & in-class WODs:
 
@@ -39,13 +35,9 @@ I tried not to use AI too much during the practice WODs because I wanted to prep
 
 Likewise, I followed pretty much the same system for the in-class WODs. There have been a few times when I had forgotten a single line that totally prevented my code from working, but I couldn’t figure out the problem on my own. I mean, I always tried to solve it on my own, but after a certain point, I was just wasting precious time—and my little issues weren’t even the “heart” of the WOD, so by spending too much time trying to search for the bug, I was losing out on the “real” practice.
 
-<br>
-
 ##### Essays:
 
 I don’t like to use AI for my essays. Even outside of class, I’m super into writing and sharing my ideas, so I don’t feel the need to rely on AI to articulate my thoughts. I occasionally go to ChatGPT for quick grammar feedback on personal projects, but the writing process for this class has been pretty straightforward.
-
-<br>
 
 ##### Final project:
 
@@ -53,15 +45,11 @@ I definitely used AI all throughout working on the final project. I didn’t wan
 
 I’d say I mostly went to ChatGPT for things like reminders on different CSS properties since I did a lot of the visual design. For more specific issues, I went to GitHub Co-Pilot since it had my code to refer to. The most difficult job I was assigned was setting up the dynamic page that read from the database. We didn’t have an experience that covered this topic, so I had to really rely on GitHub Co-Pilot to teach me.
 
-<br>
-
 ##### Learning a concept:
 
 I’m always happy to talk about this because, like I’ve said, I’m a big advocate for using ChatGPT as a tutor. I even use it to review material before exams—so of course I’ve used it before WODs.
 
 I tell it something like, “Can you help me learn about [topic]? I want to ask you questions along the way,” and we have a pleasant Q&A session. I just find it super helpful to have “someone” who can provide 24/7 help. But always make sure to double-check your sources because ChatGPT can be and has been wrong. It’s like a real (qualified) person; most of the time it’s accurate, but never blindly trust what it tells you.
-
-<br>
 
 ##### Answering questions in class or in Discord & asking or answering smart-questions:
 
@@ -69,21 +57,15 @@ I never really asked for help or answered questions about what we were learning 
 
 The same goes for smart questions. It was always simply unnecessary to involve AI. 
 
-<br>
-
 ##### Coding examples:
 
 I usually read up on articles first when looking for examples, but ChatGPT is a good tool as well. I’m slightly more inclined to trust the articles since they are more likely to be reviewed, edited, and definitely correct, whereas I have to be more careful with the information ChatGPT fetches for me.
 
 I specifically recall asking ChatGPT to give me quite a few examples on functions like mapping during the functional programming module. That was pretty helpful since there were a lot of new functions I had to familiarize myself with.
 
-<br>
-
 ##### Explaining code:
 
 AI isn’t my go-to when it comes to understanding what blocks of code do. I try to analyze it myself first; after all, breaking stuff down is more helpful when it comes to rebuilding it. However, if I ever found myself stuck, then sure, I would ask ChatGPT to explain what each line did. I mean, literally, I’ve pasted blocks of code and told it, “Can you explain what each line does one by one?” This method was helpful when I didn’t get WOD solutions provided in class; asking for explanations gave me the opportunity to walk through the solutions more slowly.
-
-<br>
 
 ##### Writing code:
 
@@ -91,13 +73,9 @@ I prefer to try and understand the code I am writing rather than copy-and-pastin
 
 As I mentioned, I needed the most help during the final project while coding the dynamic page, but since we hadn’t really covered the topic in previous experiences, I had to learn how to do it. Some of it I copied, but I made sure I knew what it was saying and what I was doing. Blindly copying hinders growth and critical thinking—but coding is more about problem-solving than memorizing all the syntax in the world. Having an assistant, not a robot slave, makes things ten times more convenient.
 
-<br>
-
 ##### Documenting code:
 
 I don’t use AI to document my code. Commentation is personal—they are for me to look back on and understand, so what I write is suited for me specifically. I know myself better than ChatGPT does. Of course, my comments should be understandable for others who view my code as well, but I think they are already concise enough as is.
-
-<br>
 
 ##### Quality assurance:
 
