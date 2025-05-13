@@ -88,18 +88,21 @@ I think we’ve all been there: spending hours and hours searching for the one l
 <img height="400px" class="rounded" style="display: block; margin: 0 auto 20px;" src="https://media.istockphoto.com/id/1997900524/photo/cute-curious-cat-with-question-marks.jpg?s=612x612&w=0&k=20&c=15Zk0xt4A7CUsLoMHzHSFde5taNSf5HkqlQGUHyhgnE=">
 
 <br>
+<hr>
 
 ## Impact on learning
 
 Well, it’s safe to say that AI has definitely enhanced my learning experience. It’s helped me understand tough concepts more quickly, especially when I can talk through problems with it like a tutoring session. I feel like I’ve gotten better at debugging and thinking through problems, since ChatGPT can guide me without handing me all the answers. That said, it will never replace actual learning—you still have to put in the effort because simply copying will not suffice. But overall, it’s made studying software engineering less frustrating and a lot more doable.
 
 <br>
+<hr>
 
 ## Practical applications
 
 Aside from generative AI, other AI technologies are used in software engineering to improve efficiency. For example, machine learning helps predict issues in systems before they happen, and automated testing tools can find bugs faster. AI is also used to monitor apps in real-time, allowing developers to fix problems quickly. These applications help make development faster, more accurate, and less prone to errors.
 
 <br>
+<hr>
 
 ## Challenges and opportunities
 
@@ -108,6 +111,7 @@ One challenge I faced with AI in the course was the occasional inaccuracy or con
 There are plenty of opportunities for AI to be more integrated into software engineering education. For example, AI could provide personalized tutoring sessions that adapt to a student’s learning pace, making it easier to grasp difficult concepts. AI-powered code review systems could also be used to give immediate feedback, helping students improve their skills in real-time.
 
 <br>
+<hr>
 
 ## Comparative analysis
 
@@ -116,6 +120,7 @@ AI can never replace traditional teaching, but it sure does have its perks. “R
 I think the best learning happens when you use both. Teachers help with deeper understanding and feedback, while AI helps fill in gaps, debug quickly, and explore things at your own pace. For me, combining the two has made learning more engaging and practical.
 
 <br>
+<hr>
 
 ## Future considerations
 
@@ -124,6 +129,7 @@ AI is constantly being developed; it will keep getting better at personalizing l
 The biggest challenge is making sure students don’t rely on it too much. Unfortunately, not enough people have the willpower—or even care enough—to not overdepend on AI. It is literally destroying people’s ability to think critically, and I am worried for future generations, given how many youngsters use it to plagiarize. Ideally, AI should guide learning, not replace it.
 
 <br>
+<hr>
 
 ## In conclusion...
 
