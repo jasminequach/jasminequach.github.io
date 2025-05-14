@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: projects/images/cooking-compass.jpg
+image: ../projects/images/cooking-compass.jpg
 title: "Cooking Compass"
 date: 2025
 published: true
@@ -28,9 +28,13 @@ My tasks included:
 
 Overall, collaborating on Cooking Compass with three other people was a great opportunity to experience working with other people on a real, usable application. Up until this point, most of my endeavors as a Computer Science student had been individual ones, so navigating meeting deadlines, keeping up active communication, and developing quality code that others depend on had been interesting. Sure, I strengthened my skills in intertwining Next.js with PostgreSQL to make a functioning app, but the biggest things I learned had to do with cooperation and team management.
 
+<br>
+
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <img height="275px" src="../projects/images/WT-landing-page.png" style="border-radius: 8px;">
   <img height="275px" src="../projects/images/WT-explore.png" style="border-radius: 8px;">
 </div>
+
+<br>
 
 See our [homepage](https://cooking-compass.github.io/) and our [GitHub organization](https://github.com/Cooking-Compass).
