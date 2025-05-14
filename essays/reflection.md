@@ -12,7 +12,7 @@ labels:
 
 ## Beyond the code...
 
-Coding standards and ethics are both concepts that can be extended beyond web application development to the world of software engineering as a whole. They are crucial in every area of programming, helping to maintain not only quality but also responsibility in the technology we create.
+As I learned to program applications, I found that coding standards and ethics are both concepts that can be extended beyond web development to the world of software engineering as a whole. They are crucial in every area of programming, helping to maintain not only quality but also responsibility in the technology we create.
 
 <br>
 <hr>
