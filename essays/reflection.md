@@ -17,7 +17,7 @@ Coding standards and ethics are both concepts that can be extended beyond web ap
 
 ## Keeping it standard
 
-<img height="250px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/a3e47wjih6jh8ilxwxcz.jpg">
+<img height="200px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/a3e47wjih6jh8ilxwxcz.jpg">
 
 Coding standards are a set of rules that dictate how code should be formatted to maintain consistency and organization. These rules aren’t strictly _for_ web application development; coding standards are relevant when it comes to _anything_ related to programming in general.
 
@@ -28,7 +28,7 @@ You kind of have to use coding standards so long as you are working with other p
 
 ## Not just a virtual world
 
-<img height="250px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://thumbs.dreamstime.com/b/cat-conscience-good-angel-kitty-bad-devil-which-will-choose-poor-trying-to-decide-whether-be-well-behaved-cause-145449979.jpg">
+<img height="200px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://thumbs.dreamstime.com/b/cat-conscience-good-angel-kitty-bad-devil-which-will-choose-poor-trying-to-decide-whether-be-well-behaved-cause-145449979.jpg">
 
 Ethics are moral principles that guide right and wrong behavior. When it comes to software engineering, ethics has us consider the impact of software on users, society, and the environment, and like coding standards, they are not strictly relevant to web application development. They apply to all areas of programming because _all_ software can have real-world consequences. Ethical considerations might include things like respecting user privacy, writing secure code, or avoiding practices that exploit users. Ultimately, ethical practices in software engineering ensure that the technology we build serves the greater good, upholds trust, and minimizes harm, regardless of the application.
 
