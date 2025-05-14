@@ -30,7 +30,9 @@ You kind of have to use coding standards so long as you are working with other p
 
 <img height="200px" class="rounded" style="float: right; margin-left: 20px; margin-bottom: 20px;" src="https://thumbs.dreamstime.com/b/cat-conscience-good-angel-kitty-bad-devil-which-will-choose-poor-trying-to-decide-whether-be-well-behaved-cause-145449979.jpg">
 
-Ethics are moral principles that guide right and wrong behavior. When it comes to software engineering, ethics has us consider the impact of software on users, society, and the environment, and like coding standards, they are not strictly relevant to web application development. They apply to all areas of programming because _all_ software can have real-world consequences. Ethical considerations might include things like respecting user privacy, writing secure code, or avoiding practices that exploit users. Ultimately, ethical practices in software engineering ensure that the technology we build serves the greater good, upholds trust, and minimizes harm, regardless of the application.
+Ethics are moral principles that guide right and wrong behavior. When it comes to software engineering, ethics has us consider the impact of software on users, society, and the environment, and like coding standards, they are not strictly relevant to web application development. They apply to all areas of programming because _all_ software can have real-world consequences.
+
+Ethical considerations might include things like respecting user privacy, writing secure code, or avoiding practices that exploit users. Ultimately, ethical practices in software engineering ensure that the technology we build serves the greater good, upholds trust, and minimizes harm, regardless of the application.
 
 <br>
 <hr>
