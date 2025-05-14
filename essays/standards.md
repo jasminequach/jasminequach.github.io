@@ -26,7 +26,7 @@ Plus, it’s nice to know that when I follow these standards, anyone else pickin
 
 ## A helpful, little pest
 
-<img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="round" src="https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/121530561_10157232828795286_2461461808945351868_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5HP5MHQh-LAQ7kNvgGLBfwJ&_nc_oc=Adj3fEt_uIq8SbwG-Pv9AxymWnNxHQ6Pe5Je1gXeNM5YbZl1qQaiHKcVELb9LCIPrm8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ArWvzMMni9S2p6ih9StXQEp&oh=00_AYDfx23oou7IAQQNnR_k80r6jNRuYvdHssHRx0Mqs1TbIw&oe=67D4E97C">
+<img width="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" class="round" src="https://media.istockphoto.com/id/1334070091/photo/pensive-bengal-cat-in-a-blue-tie-near-a-laptop-and-a-diary-sits-home-office-remote-work.jpg?s=612x612&w=0&k=20&c=vBp3dCwUVKXDxga-dESreruuLN24rAZYNr7Asc6KdtI=">
 
 That being said, I like being organized on my _own_ terms. To be honest, sometimes using ESLint feels a lot like when I was in eighth grade and forced to take Cornell notes instead of notes in the style that _actually_ helped me. (Even now, I am being forced to take Cornell notes—_Cornell_ notes, people! Yuck!—in another college-level class, but I digress…)
 
