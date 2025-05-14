@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../projects/images/cooking-compass.jpg
+image: ../projects/images/cooking-compass.png
 title: "Cooking Compass"
 date: 2025
 published: true
@@ -34,9 +34,9 @@ Overall, collaborating on Cooking Compass with three other people was a great op
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <img height="275px" src="../projects/images/WT-landing-page.png" style="border-radius: 8px;">
-  <img height="275px" src="../projects/images/WT-explore.png" style="border-radius: 8px;">
+<div style="display: flex; width: 100%; gap: 20px; margin-bottom: 20px;">
+  <img src="../projects/images/WT-landing-page.png" style="flex: 1; max-width: 100%; height: auto; border-radius: 8px;">
+  <img src="../projects/images/WT-explore.png" style="flex: 1; max-width: 100%; height: auto; border-radius: 8px;">
 </div>
 
 <br>
