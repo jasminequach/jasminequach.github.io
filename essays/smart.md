@@ -31,7 +31,7 @@ Contrary to what they say, it's totally possible to ask a "stupid" question—he
 
 <img height="300px" style="float: right; margin-left: 10px; margin-bottom: 10px;" src="https://incrediblevanishingpaperweight.wordpress.com/wp-content/uploads/2017/01/mob1.jpg">
 
-This is an example of a ["bad"](https://stackoverflow.com/questions/79399913/how-create-api-for-remove-background-application-using-python) question. The user, wanting a tutorial on how to build a certain tool, writes:
+This is an example of a (now removed) "bad" question. The user, wanting a tutorial on how to build a certain tool, writes:
 
 <div style="background-color: #f1e7d5; padding: 10px; word-wrap: break-word;"><code>
 How create API for remove background application using python
