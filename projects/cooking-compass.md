@@ -13,7 +13,7 @@ labels:
 summary: "My team in a software engineering class developed a web application for UH students to share and discover easy-to-make toaster oven recipes."
 ---
 
-Cooking Compass is an application that allows UH Mānoa students to share and search for creative recipes that respect the constraints—limited kitchen resources, cooking skills, time—many college-goers face. By providing opportunites to find creative, doable recipes, we aim to foster a community that celebrates resourcefulness, healthy eating, and the joy of cooking.
+Cooking Compass is an application that allows UH Mānoa students to share and search for creative recipes that respect the constraints—limited kitchen resources, cooking skills, time—many college-goers face. By providing opportunites to find creative, doable recipes, we aimed to foster a community that celebrates resourcefulness, healthy eating, and the joy of cooking.
 
 The project tasks were split amongst the four people who made up our team. We maintained our organization through a combination of GitHub Project, issue driven management, and Google Docs to-do lists.
 
