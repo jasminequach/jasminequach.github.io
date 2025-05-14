@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../projects/images/cooking-compass.png
 title: "Cooking Compass"
-date: 2025
+date: April – May 2025
 published: true
 labels:
   - Next.js
