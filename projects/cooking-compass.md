@@ -34,9 +34,9 @@ Overall, collaborating on Cooking Compass with three other people was a great op
 
 <br>
 
-<div style="display: flex; max-width: 1000px; margin: 0 auto; gap: 20px; margin-bottom: 20px;">
-  <img src="../projects/images/WT-landing-page.png" style="width: 100%; height: auto; border-radius: 8px;">
-  <img src="../projects/images/WT-explore.png" style="width: 100%; height: auto; border-radius: 8px;">
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <img height="300px" src="../projects/images/WT-landing-page.png" style="border-radius: 8px;">
+  <img height="300px" src="../projects/images/WT-explore.png" style="border-radius: 8px;">
 </div>
 
 <br>
