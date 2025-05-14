@@ -55,4 +55,6 @@ As the programmer of the project, I was responsible for defining the Complex cla
 
 <hr>
 
+<img class="img-fluid" src="../projects/images/terminal-calc.png">
+
 Source: <a href="https://github.com/jasminequach/complex-numbers-calculator"><i class="large github icon "></i>Complex Class</a>
