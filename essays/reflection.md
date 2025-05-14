@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Beyond the Code "
+title: "Atypical Takeaways"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-13
 published: true
@@ -9,6 +9,8 @@ labels:
   - Software Engineering
   - Reflection
 ---
+
+## Beyond the code...
 
 Coding standards and ethics are both concepts that can be extended beyond web application development to the world of software engineering as a whole. They are crucial in every area of programming, helping to maintain not only quality but also responsibility in the technology we create.
 
@@ -37,6 +39,6 @@ Ethical considerations might include things like respecting user privacy, writin
 <br>
 <hr>
 
-## The bottom line…
+## The bottom line
 
 All in all, both coding standards and ethics are foundational principles that transcend web application development and play a critical role in ensuring high-quality, responsible software engineering—because at the end of the day, sticking to coding standards and ethics isn’t just about following rules. It’s about taking pride in the work we do and knowing that what we build has the power to impact people, for better or worse.
