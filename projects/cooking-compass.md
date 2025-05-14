@@ -17,6 +17,8 @@ Cooking Compass is an application that allows UH Mānoa students to share and se
 
 The project tasks were split amongst the four people who made up our team. We maintained our organization through a combination of GitHub Project, issue driven management, and Google Docs to-do lists.
 
+<br>
+
 My tasks included:
 * Designing and tidying up the visual aesthetics of various pages, including the homepage, the individual recipe page, the submit recipe page, and so on.
 * Programming a dynamic page that read from the database and displayed information about a specific recipe when the user clicked on its associated link in the explore page.
@@ -26,11 +28,13 @@ My tasks included:
 * Incorporating real data to populate the database.
 * Distributing the application to real users to test out the app.
 
+<br>
+
 Overall, collaborating on Cooking Compass with three other people was a great opportunity to experience working with other people on a real, usable application. Up until this point, most of my endeavors as a Computer Science student had been individual ones, so navigating meeting deadlines, keeping up active communication, and developing quality code that others depend on had been interesting. Sure, I strengthened my skills in intertwining Next.js with PostgreSQL to make a functioning app, but the biggest things I learned had to do with cooperation and team management.
 
 <br>
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <img height="275px" src="../projects/images/WT-landing-page.png" style="border-radius: 8px;">
   <img height="275px" src="../projects/images/WT-explore.png" style="border-radius: 8px;">
 </div>
