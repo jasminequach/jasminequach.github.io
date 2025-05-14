@@ -4,7 +4,7 @@ type: essay
 title: "Pleased to Meet You, TypeScript!"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
-published: true
+published: false
 labels:
   - TypeScript
   - First Impressions
