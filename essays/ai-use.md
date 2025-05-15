@@ -25,15 +25,15 @@ Now, how exactly did I incorporate AI into my work in this class?
 
 ##### 1.) Experience WODs:
 
-I usually opted to avoid using AI during the experience WODs because I felt it was important to challenge myself by solving them on my own first, even if I didn’t finish in time. Plus, most of the experiences provided video solutions made by the instructors, so if I ever needed help, I often just referred to those. Sometimes, however, I turned to ChatGPT if I was completely stumped and needed someone to point out what I doing wrong.
+I usually opted to avoid using AI during the experience WODs because I felt it was important to challenge myself by solving them on my own first, even if I didn’t finish in time. Plus, most of the experiences provided video solutions made by the instructors, so if I ever needed help, I often just referred to those. Sometimes, however, I turned to ChatGPT if I was completely stumped and needed someone to point out what I doing wrong. Usually, it was stuff like, "I know I have to use this function, but I don't know why it's working as intended" along with my code.
 
 ##### 2.) In-class practice WODs:
 
-I tried not to use AI too much during the practice WODs because I wanted to prepare myself for the real deal, but there had been quite a few times when I found myself absolutely stuck. When this happened, I gave in and turned to ChatGPT so I could move forward, especially if I was working on a more complicated WOD and there was no way for me to progress otherwise. For instance, something as simple as not realizing I forgot to put ‘use client’ at the top has messed me up before, and ChatGPT pointed it out. In those moments, it just made more sense to get unstuck and focus on practicing the main content.
+I tried not to use AI too much during the practice WODs because I wanted to prepare myself for the real deal, but there had been quite a few times when I found myself absolutely stuck. When this happened, I gave in and turned to ChatGPT so I could move forward, especially if I was working on a more complicated WOD and there was no way for me to progress otherwise. For instance, something as simple as not realizing I forgot to put ‘use client’ at the top has messed me up before, and ChatGPT pointed it out. I'd go, "What's wrong with my code? Why isn't it working?" and it would point out the little error. In those moments, it just made more sense to get unstuck and focus on practicing the main content.
 
 ##### 3.) In-class WODs:
 
-Likewise, I followed the same approach for the in-class WODs. There have been a few times when I forgot a single line that totally prevented my code from working and couldn’t figure out the problem on my own, so I asked ChatGPT for help. I mean, I always tried to solve it first, but after a certain point, it was just wasting precious time—and my little issues wouldn’t even be the “heart” of the WOD. By spending too much time searching for the bug, I was losing out on the “real” practice.
+Likewise, I followed the same approach for the in-class WODs. There have been a few times when I forgot a single line that totally prevented my code from working and couldn’t figure out the problem on my own, so I went to ChatGPT for help by pasting my code and asking it why I was getting errors. I mean, I always tried to solve it first, but after a certain point, it was just wasting precious time—and my little issues wouldn’t even be the “heart” of the WOD. By spending too much time searching for the bug, I was losing out on the “real” practice.
 
 ##### 4.) Essays:
 
@@ -81,7 +81,7 @@ I don’t use AI to document my code. Commentation is personal—they are for me
 
 ##### 13.) Quality assurance:
 
-I think we’ve all been there: spending hours and hours searching for that one little bug that’s screwing up the entire thing. It’s like looking for a needle in a haystack. As a programmer, having AI there to check my code makes life a million times easier. There have been times when I’d been working for hours and just couldn’t be bothered to spend too long digging through all my files to find the issue. I'd just go, “What is causing this error?” and it'd give it to me lickety split. Incredible.
+I think we’ve all been there: spending hours and hours searching for that one little bug that’s screwing up the entire thing. It’s like looking for a needle in a haystack. As a programmer, having AI there to check my code makes life a million times easier. There have been times when I’d been working for hours and just couldn’t be bothered to spend too long digging through all my files to find the issue. I'd just go, “What is causing this error?” and it'd give it to me lickety split. Real cool.
 
 ##### 14.) Other uses in ICS 314:
 
